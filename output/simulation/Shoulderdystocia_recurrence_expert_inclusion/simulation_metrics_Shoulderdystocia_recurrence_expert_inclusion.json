@@ -1,0 +1,272 @@
+{
+  "output/simulation/Shoulderdystocia_recurrence_expert_inclusion/state_files/state_Shoulderdystocia_recurrence_expert_inclusion_27.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 86.41975308641975,
+      "100": 86.41975308641975
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 0.0
+    },
+    "loss": 0.12014925373134329,
+    "time_to_discovery": {
+      "323": 36.0,
+      "258": 38.0,
+      "255": 43.0,
+      "248": 44.0
+    },
+    "general": {
+      "n_queries": [
+        325
+      ],
+      "n_states": 1,
+      "n_papers": 335,
+      "n_included": 5,
+      "n_excluded": 330,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_recurrence_expert_inclusion/state_files/state_Shoulderdystocia_recurrence_expert_inclusion_248.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 54.01234567901235,
+      "100": 54.01234567901235
+    },
+    "rrf": {
+      "5": 75.0,
+      "10": 75.0
+    },
+    "loss": 0.13656716417910447,
+    "time_to_discovery": {
+      "258": 9.0,
+      "323": 11.0,
+      "255": 14.0,
+      "27": 149.0
+    },
+    "general": {
+      "n_queries": [
+        325
+      ],
+      "n_states": 1,
+      "n_papers": 335,
+      "n_included": 5,
+      "n_excluded": 330,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_recurrence_expert_inclusion/state_files/state_Shoulderdystocia_recurrence_expert_inclusion_255.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 54.62962962962963,
+      "100": 54.62962962962963
+    },
+    "rrf": {
+      "5": 75.0,
+      "10": 75.0
+    },
+    "loss": 0.12313432835820895,
+    "time_to_discovery": {
+      "258": 3.0,
+      "323": 6.0,
+      "248": 9.0,
+      "27": 147.0
+    },
+    "general": {
+      "n_queries": [
+        325
+      ],
+      "n_states": 1,
+      "n_papers": 335,
+      "n_included": 5,
+      "n_excluded": 330,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_recurrence_expert_inclusion/state_files/state_Shoulderdystocia_recurrence_expert_inclusion_258.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 54.32098765432099,
+      "100": 54.32098765432099
+    },
+    "rrf": {
+      "5": 75.0,
+      "10": 75.0
+    },
+    "loss": 0.12611940298507462,
+    "time_to_discovery": {
+      "323": 3.0,
+      "255": 8.0,
+      "248": 10.0,
+      "27": 148.0
+    },
+    "general": {
+      "n_queries": [
+        325
+      ],
+      "n_states": 1,
+      "n_papers": 335,
+      "n_included": 5,
+      "n_excluded": 330,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_recurrence_expert_inclusion/state_files/state_Shoulderdystocia_recurrence_expert_inclusion_323.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 55.8641975308642,
+      "100": 55.8641975308642
+    },
+    "rrf": {
+      "5": 75.0,
+      "10": 75.0
+    },
+    "loss": 0.12164179104477613,
+    "time_to_discovery": {
+      "258": 2.0,
+      "255": 8.0,
+      "248": 10.0,
+      "27": 143.0
+    },
+    "general": {
+      "n_queries": [
+        325
+      ],
+      "n_states": 1,
+      "n_papers": 335,
+      "n_included": 5,
+      "n_excluded": 330,
+      "n_unlabeled": 0
+    }
+  }
+}

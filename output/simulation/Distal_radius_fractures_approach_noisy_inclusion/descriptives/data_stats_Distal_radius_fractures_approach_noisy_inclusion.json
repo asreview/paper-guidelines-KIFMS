@@ -1,0 +1,15 @@
+{
+  "data/Distal_radius_fractures_approach_noisy_inclusion.csv": {
+    "n_papers": 195,
+    "n_included": 11,
+    "n_excluded": 184,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 13,
+    "n_missing_abstract_included": 1,
+    "title_length": 113.97948717948718,
+    "abstract_length": 1277.4051282051282,
+    "n_keywords": null
+  }
+}

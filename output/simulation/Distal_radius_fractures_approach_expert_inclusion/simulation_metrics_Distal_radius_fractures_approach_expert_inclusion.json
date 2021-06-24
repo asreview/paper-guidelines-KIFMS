@@ -1,0 +1,332 @@
+{
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_0.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 53.80434782608696,
+      "100": 53.80434782608696
+    },
+    "rrf": {
+      "5": 40.0,
+      "10": 40.0
+    },
+    "loss": 0.19076923076923077,
+    "time_to_discovery": {
+      "159": 5.0,
+      "42": 8.0,
+      "160": 29.0,
+      "23": 59.0,
+      "57": 85.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_23.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 64.13043478260869,
+      "100": 64.13043478260869
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 20.0
+    },
+    "loss": 0.21025641025641026,
+    "time_to_discovery": {
+      "57": 13.0,
+      "159": 37.0,
+      "42": 39.0,
+      "0": 50.0,
+      "160": 66.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_42.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 51.630434782608695,
+      "100": 51.630434782608695
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 40.0
+    },
+    "loss": 0.19794871794871793,
+    "time_to_discovery": {
+      "159": 1.0,
+      "160": 17.0,
+      "0": 31.0,
+      "23": 55.0,
+      "57": 89.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_57.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 61.95652173913044,
+      "100": 61.95652173913044
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 0.0
+    },
+    "loss": 0.24,
+    "time_to_discovery": {
+      "23": 23.0,
+      "159": 44.0,
+      "42": 45.0,
+      "0": 52.0,
+      "160": 70.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_159.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 58.69565217391305,
+      "100": 58.69565217391305
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 40.0
+    },
+    "loss": 0.18974358974358974,
+    "time_to_discovery": {
+      "42": 3.0,
+      "0": 18.0,
+      "160": 27.0,
+      "23": 61.0,
+      "57": 76.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_expert_inclusion/state_files/state_Distal_radius_fractures_approach_expert_inclusion_160.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 55.97826086956522,
+      "100": 55.97826086956522
+    },
+    "rrf": {
+      "5": 40.0,
+      "10": 40.0
+    },
+    "loss": 0.18974358974358974,
+    "time_to_discovery": {
+      "159": 3.0,
+      "42": 7.0,
+      "0": 38.0,
+      "23": 56.0,
+      "57": 81.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 6,
+      "n_excluded": 189,
+      "n_unlabeled": 0
+    }
+  }
+}

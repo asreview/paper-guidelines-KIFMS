@@ -1,0 +1,332 @@
+{
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_17.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 56.60377358490566,
+      "100": 56.60377358490566
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.17471264367816092,
+    "time_to_discovery": {
+      "76": 3.0,
+      "43": 4.0,
+      "104": 8.0,
+      "377": 181.0,
+      "303": 184.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_43.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 63.443396226415096,
+      "100": 63.443396226415096
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.1471264367816092,
+    "time_to_discovery": {
+      "76": 1.0,
+      "17": 4.0,
+      "104": 8.0,
+      "377": 152.0,
+      "303": 155.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_76.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 48.34905660377359,
+      "100": 48.34905660377359
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.20735632183908045,
+    "time_to_discovery": {
+      "43": 3.0,
+      "17": 5.0,
+      "104": 7.0,
+      "377": 217.0,
+      "303": 219.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_104.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 61.08490566037736,
+      "100": 61.08490566037736
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.15770114942528735,
+    "time_to_discovery": {
+      "17": 3.0,
+      "76": 6.0,
+      "43": 8.0,
+      "377": 161.0,
+      "303": 165.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_303.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 77.83018867924528,
+      "100": 77.83018867924528
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 20.0
+    },
+    "loss": 0.1710344827586207,
+    "time_to_discovery": {
+      "377": 19.0,
+      "43": 85.0,
+      "76": 86.0,
+      "17": 88.0,
+      "104": 94.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Post_intensive_care_treatment_fulltext_inclusion/state_files/state_Post_intensive_care_treatment_fulltext_inclusion_377.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 77.83018867924528,
+      "100": 77.83018867924528
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 20.0
+    },
+    "loss": 0.16551724137931034,
+    "time_to_discovery": {
+      "303": 2.0,
+      "43": 86.0,
+      "76": 88.0,
+      "17": 90.0,
+      "104": 94.0
+    },
+    "general": {
+      "n_queries": [
+        425
+      ],
+      "n_states": 1,
+      "n_papers": 435,
+      "n_included": 6,
+      "n_excluded": 429,
+      "n_unlabeled": 0
+    }
+  }
+}

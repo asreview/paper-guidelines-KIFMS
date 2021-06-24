@@ -1,0 +1,272 @@
+{
+  "output/simulation/Distal_radius_fractures_approach_fulltext_inclusion/state_files/state_Distal_radius_fractures_approach_fulltext_inclusion_0.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 60.32608695652174,
+      "100": 60.32608695652174
+    },
+    "rrf": {
+      "5": 25.0,
+      "10": 25.0
+    },
+    "loss": 0.21666666666666667,
+    "time_to_discovery": {
+      "159": 4.0,
+      "160": 32.0,
+      "23": 60.0,
+      "57": 73.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 5,
+      "n_excluded": 190,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_fulltext_inclusion/state_files/state_Distal_radius_fractures_approach_fulltext_inclusion_23.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 63.04347826086957,
+      "100": 63.04347826086957
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 25.0
+    },
+    "loss": 0.2205128205128205,
+    "time_to_discovery": {
+      "57": 12.0,
+      "159": 40.0,
+      "0": 52.0,
+      "160": 68.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 5,
+      "n_excluded": 190,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_fulltext_inclusion/state_files/state_Distal_radius_fractures_approach_fulltext_inclusion_57.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 62.5,
+      "100": 62.5
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 0.0
+    },
+    "loss": 0.23846153846153845,
+    "time_to_discovery": {
+      "23": 24.0,
+      "159": 40.0,
+      "0": 53.0,
+      "160": 69.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 5,
+      "n_excluded": 190,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_fulltext_inclusion/state_files/state_Distal_radius_fractures_approach_fulltext_inclusion_159.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 58.15217391304348,
+      "100": 58.15217391304348
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 25.0
+    },
+    "loss": 0.26410256410256405,
+    "time_to_discovery": {
+      "160": 16.0,
+      "0": 46.0,
+      "23": 67.0,
+      "57": 77.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 5,
+      "n_excluded": 190,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_approach_fulltext_inclusion/state_files/state_Distal_radius_fractures_approach_fulltext_inclusion_160.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 63.04347826086957,
+      "100": 63.04347826086957
+    },
+    "rrf": {
+      "5": 25.0,
+      "10": 25.0
+    },
+    "loss": 0.22179487179487178,
+    "time_to_discovery": {
+      "159": 3.0,
+      "0": 47.0,
+      "23": 55.0,
+      "57": 68.0
+    },
+    "general": {
+      "n_queries": [
+        185
+      ],
+      "n_states": 1,
+      "n_papers": 195,
+      "n_included": 5,
+      "n_excluded": 190,
+      "n_unlabeled": 0
+    }
+  }
+}

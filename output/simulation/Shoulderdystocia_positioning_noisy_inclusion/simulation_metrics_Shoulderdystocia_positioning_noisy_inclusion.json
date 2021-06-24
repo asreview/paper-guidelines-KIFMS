@@ -1,0 +1,332 @@
+{
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_23.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.19323671497584,
+      "100": 80.19323671497584
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.08623853211009176,
+    "time_to_discovery": {
+      "27": 1.0,
+      "49": 2.0,
+      "197": 11.0,
+      "61": 39.0,
+      "66": 41.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_27.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.19323671497584,
+      "100": 80.19323671497584
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.08623853211009176,
+    "time_to_discovery": {
+      "23": 1.0,
+      "49": 2.0,
+      "197": 11.0,
+      "61": 39.0,
+      "66": 41.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_49.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.19323671497584,
+      "100": 80.19323671497584
+    },
+    "rrf": {
+      "5": 60.0,
+      "10": 60.0
+    },
+    "loss": 0.08623853211009176,
+    "time_to_discovery": {
+      "23": 1.0,
+      "27": 2.0,
+      "197": 11.0,
+      "61": 39.0,
+      "66": 41.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_61.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.19323671497584,
+      "100": 80.19323671497584
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 20.0
+    },
+    "loss": 0.14403669724770643,
+    "time_to_discovery": {
+      "66": 1.0,
+      "197": 36.0,
+      "27": 39.0,
+      "23": 40.0,
+      "49": 41.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_66.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.67632850241546,
+      "100": 80.67632850241546
+    },
+    "rrf": {
+      "5": 20.0,
+      "10": 20.0
+    },
+    "loss": 0.14311926605504588,
+    "time_to_discovery": {
+      "61": 3.0,
+      "197": 36.0,
+      "27": 38.0,
+      "23": 39.0,
+      "49": 40.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_noisy_inclusion/state_files/state_Shoulderdystocia_positioning_noisy_inclusion_197.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 75.84541062801932,
+      "100": 75.84541062801932
+    },
+    "rrf": {
+      "5": 40.0,
+      "10": 60.0
+    },
+    "loss": 0.12110091743119267,
+    "time_to_discovery": {
+      "27": 10.0,
+      "23": 11.0,
+      "49": 12.0,
+      "61": 49.0,
+      "66": 50.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 6,
+      "n_excluded": 212,
+      "n_unlabeled": 0
+    }
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_28.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.26938239159001,
+      "100": 95.26938239159001
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02158894645941278,
+    "time_to_discovery": {
+      "231": 2.0,
+      "244": 3.0,
+      "344": 6.0,
+      "531": 9.0,
+      "187": 10.0,
+      "487": 20.0,
+      "96": 29.0,
+      "542": 35.0,
+      "752": 36.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_96.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.26938239159001,
+      "100": 95.26938239159001
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02619458837075417,
+    "time_to_discovery": {
+      "531": 10.0,
+      "187": 12.0,
+      "244": 13.0,
+      "344": 15.0,
+      "28": 17.0,
+      "231": 18.0,
+      "487": 27.0,
+      "752": 34.0,
+      "542": 36.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_187.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.9264126149803,
+      "100": 95.9264126149803
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.018998272884283247,
+    "time_to_discovery": {
+      "531": 3.0,
+      "244": 4.0,
+      "28": 6.0,
+      "344": 8.0,
+      "231": 9.0,
+      "487": 22.0,
+      "752": 24.0,
+      "96": 25.0,
+      "542": 31.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_231.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.66360052562418,
+      "100": 95.66360052562418
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.020293609671848015,
+    "time_to_discovery": {
+      "28": 2.0,
+      "244": 4.0,
+      "344": 6.0,
+      "187": 9.0,
+      "531": 10.0,
+      "487": 18.0,
+      "96": 28.0,
+      "752": 31.0,
+      "542": 33.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_244.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.9264126149803,
+      "100": 95.9264126149803
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.018710420264824407,
+    "time_to_discovery": {
+      "231": 2.0,
+      "28": 4.0,
+      "344": 6.0,
+      "531": 9.0,
+      "187": 10.0,
+      "96": 17.0,
+      "752": 23.0,
+      "542": 28.0,
+      "487": 31.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_344.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.79500657030223,
+      "100": 95.79500657030223
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.021445020149683365,
+    "time_to_discovery": {
+      "231": 4.0,
+      "28": 5.0,
+      "244": 6.0,
+      "187": 10.0,
+      "531": 12.0,
+      "96": 22.0,
+      "752": 27.0,
+      "542": 31.0,
+      "487": 32.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_487.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.53219448094612,
+      "100": 95.53219448094612
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02360391479562464,
+    "time_to_discovery": {
+      "531": 6.0,
+      "244": 10.0,
+      "187": 11.0,
+      "28": 13.0,
+      "231": 14.0,
+      "344": 16.0,
+      "96": 29.0,
+      "752": 31.0,
+      "542": 34.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_531.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.66360052562418,
+      "100": 95.66360052562418
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.021301093839953943,
+    "time_to_discovery": {
+      "244": 3.0,
+      "187": 5.0,
+      "28": 7.0,
+      "231": 9.0,
+      "344": 11.0,
+      "487": 20.0,
+      "752": 28.0,
+      "542": 32.0,
+      "96": 33.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_542.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 96.32063074901446,
+      "100": 96.32063074901446
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.018710420264824407,
+    "time_to_discovery": {
+      "752": 4.0,
+      "531": 6.0,
+      "187": 9.0,
+      "244": 11.0,
+      "28": 15.0,
+      "344": 16.0,
+      "231": 17.0,
+      "487": 24.0,
+      "96": 28.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Vascular_access_expert_inclusion/state_files/state_Vascular_access_expert_inclusion_752.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.79500657030223,
+      "100": 95.79500657030223
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.019717904432930342,
+    "time_to_discovery": {
+      "531": 2.0,
+      "187": 4.0,
+      "244": 7.0,
+      "344": 14.0,
+      "28": 15.0,
+      "231": 16.0,
+      "487": 21.0,
+      "96": 26.0,
+      "542": 32.0
+    },
+    "general": {
+      "n_queries": [
+        762
+      ],
+      "n_states": 1,
+      "n_papers": 772,
+      "n_included": 10,
+      "n_excluded": 762,
+      "n_unlabeled": 0
+    }
+  }
+}

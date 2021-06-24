@@ -1,0 +1,158 @@
+{
+  "output/simulation/Shoulder_replacement_diagnostic_noisy_inclusion/state_files/state_Shoulder_replacement_diagnostic_noisy_inclusion_254.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 97.58308157099698,
+      "100": 97.58308157099698
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.013157894736842105,
+    "time_to_discovery": {
+      "273": 1.0,
+      "341": 8.0
+    },
+    "general": {
+      "n_queries": [
+        332
+      ],
+      "n_states": 1,
+      "n_papers": 342,
+      "n_included": 3,
+      "n_excluded": 339,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulder_replacement_diagnostic_noisy_inclusion/state_files/state_Shoulder_replacement_diagnostic_noisy_inclusion_273.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 97.58308157099698,
+      "100": 97.58308157099698
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.013157894736842105,
+    "time_to_discovery": {
+      "254": 1.0,
+      "341": 8.0
+    },
+    "general": {
+      "n_queries": [
+        332
+      ],
+      "n_states": 1,
+      "n_papers": 342,
+      "n_included": 3,
+      "n_excluded": 339,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulder_replacement_diagnostic_noisy_inclusion/state_files/state_Shoulder_replacement_diagnostic_noisy_inclusion_341.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 98.79154078549848,
+      "100": 98.79154078549848
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.01023391812865497,
+    "time_to_discovery": {
+      "273": 3.0,
+      "254": 4.0
+    },
+    "general": {
+      "n_queries": [
+        332
+      ],
+      "n_states": 1,
+      "n_papers": 342,
+      "n_included": 3,
+      "n_excluded": 339,
+      "n_unlabeled": 0
+    }
+  }
+}

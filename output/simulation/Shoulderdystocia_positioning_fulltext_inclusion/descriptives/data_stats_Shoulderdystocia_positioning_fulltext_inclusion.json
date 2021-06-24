@@ -1,0 +1,15 @@
+{
+  "data/Shoulderdystocia_positioning_fulltext_inclusion.csv": {
+    "n_papers": 218,
+    "n_included": 4,
+    "n_excluded": 214,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 10,
+    "n_missing_abstract_included": 0,
+    "title_length": 95.58256880733946,
+    "abstract_length": 1297.467889908257,
+    "n_keywords": null
+  }
+}

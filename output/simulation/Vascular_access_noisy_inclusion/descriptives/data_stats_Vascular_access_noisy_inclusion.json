@@ -1,0 +1,15 @@
+{
+  "data/Vascular_access_noisy_inclusion.csv": {
+    "n_papers": 772,
+    "n_included": 21,
+    "n_excluded": 751,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 44,
+    "n_missing_abstract_included": 2,
+    "title_length": 95.33031088082902,
+    "abstract_length": 1205.0284974093265,
+    "n_keywords": null
+  }
+}

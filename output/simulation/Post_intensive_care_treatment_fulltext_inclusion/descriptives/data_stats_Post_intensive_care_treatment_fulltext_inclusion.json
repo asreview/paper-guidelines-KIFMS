@@ -1,0 +1,15 @@
+{
+  "data/Post_intensive_care_treatment_fulltext_inclusion.csv": {
+    "n_papers": 435,
+    "n_included": 6,
+    "n_excluded": 429,
+    "n_unlabeled": 0,
+    "n_missing_title": 2,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 51,
+    "n_missing_abstract_included": 2,
+    "title_length": 119.04367816091954,
+    "abstract_length": 1283.0620689655173,
+    "n_keywords": null
+  }
+}

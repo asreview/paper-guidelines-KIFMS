@@ -1,0 +1,15 @@
+{
+  "data/Shoulderdystocia_recurrence_expert_inclusion.csv": {
+    "n_papers": 335,
+    "n_included": 5,
+    "n_excluded": 330,
+    "n_unlabeled": 0,
+    "n_missing_title": 1,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 36,
+    "n_missing_abstract_included": 0,
+    "title_length": 82.74626865671642,
+    "abstract_length": 1195.9343283582089,
+    "n_keywords": null
+  }
+}

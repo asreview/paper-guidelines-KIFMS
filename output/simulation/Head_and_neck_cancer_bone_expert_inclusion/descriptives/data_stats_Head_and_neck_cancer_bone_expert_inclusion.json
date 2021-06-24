@@ -1,0 +1,15 @@
+{
+  "data/Head_and_neck_cancer_bone_expert_inclusion.csv": {
+    "n_papers": 311,
+    "n_included": 20,
+    "n_excluded": 291,
+    "n_unlabeled": 0,
+    "n_missing_title": 1,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 13,
+    "n_missing_abstract_included": 1,
+    "title_length": 109.94212218649518,
+    "abstract_length": 1226.2797427652733,
+    "n_keywords": null
+  }
+}

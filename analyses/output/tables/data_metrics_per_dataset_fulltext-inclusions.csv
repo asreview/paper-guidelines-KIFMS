@@ -1,0 +1,14 @@
+title,dataset_name,stage,title_id,wss95_count,wss95_mean,wss95_std,wss95_min,wss95_25%,wss95_50%,wss95_75%,wss95_max,rrf10_count,rrf10_mean,rrf10_std,rrf10_min,rrf10_25%,rrf10_50%,rrf10_75%,rrf10_max
+Distal_radius_fractures_approach,data/Distal_radius_fractures_approach_fulltext_inclusion.csv,Final full-text,1,5.0,61.41,2.14,58.15,60.33,62.5,63.04,63.04,5.0,20.0,11.18,0.0,25.0,25.0,25.0,25.0
+Distal_radius_fractures_closed_reduction,data/Distal_radius_fractures_closed_reduction_fulltext_inclusion.csv,Final full-text,2,4.0,62.31,9.15,56.39,57.52,58.46,63.25,75.94,4.0,33.33,27.22,0.0,25.0,33.33,41.67,66.67
+Hallux_valgus_prognostic,data/Hallux_valgus_prognostic_fulltext_inclusion.csv,Final full-text,3,12.0,77.4,2.45,74.09,75.76,77.11,79.25,82.19,12.0,62.88,10.59,54.55,54.55,59.09,65.91,81.82
+Head_and_neck_cancer_bone,data/Head_and_neck_cancer_bone_fulltext_inclusion.csv,Final full-text,4,11.0,78.12,4.1,74.0,76.33,77.67,78.33,89.33,11.0,73.64,9.24,60.0,70.0,70.0,75.0,90.0
+Head_and_neck_cancer_imaging,data/Head_and_neck_cancer_imaging_fulltext_inclusion.csv,Final full-text,5,8.0,70.28,3.13,66.67,68.33,70.0,71.67,75.56,8.0,41.07,5.05,28.57,42.86,42.86,42.86,42.86
+Obstetric_emergency_training,data/Obstetric_emergency_training_fulltext_inclusion.csv,Final full-text,6,7.0,86.76,1.78,85.31,85.59,85.88,87.57,89.83,7.0,78.57,15.85,50.0,75.0,83.33,83.33,100.0
+Post_intensive_care_treatment,data/Post_intensive_care_treatment_fulltext_inclusion.csv,Final full-text,7,6.0,64.19,11.75,48.35,57.72,62.26,74.23,77.83,6.0,46.67,20.66,20.0,30.0,60.0,60.0,60.0
+Pregnancy_medication,data/Pregnancy_medication_fulltext_inclusion.csv,Final full-text,8,45.0,66.92,1.23,65.0,66.2,66.44,67.4,70.51,45.0,60.86,5.31,38.64,59.09,61.36,63.64,70.45
+Shoulder_replacement_surgery,data/Shoulder_replacement_surgery_fulltext_inclusion.csv,Final full-text,10,4.0,93.13,0.15,93.01,93.01,93.13,93.26,93.26,4.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0
+Shoulderdystocia_positioning,data/Shoulderdystocia_positioning_fulltext_inclusion.csv,Final full-text,11,4.0,79.95,2.51,76.33,79.59,80.68,81.04,82.13,4.0,33.33,0.0,33.33,33.33,33.33,33.33,33.33
+Shoulderdystocia_recurrence,data/Shoulderdystocia_recurrence_fulltext_inclusion.csv,Final full-text,12,4.0,96.68,0.92,95.37,96.53,96.91,97.07,97.53,4.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0
+Total_knee_replacement,data/Total_knee_replacement_fulltext_inclusion.csv,Final full-text,13,9.0,95.76,0.34,95.31,95.52,95.74,96.16,96.16,9.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0
+Vascular_access,data/Vascular_access_fulltext_inclusion.csv,Final full-text,14,8.0,96.27,0.48,95.66,96.09,96.19,96.45,97.24,8.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0

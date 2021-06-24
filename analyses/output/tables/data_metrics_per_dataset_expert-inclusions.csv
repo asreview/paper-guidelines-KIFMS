@@ -1,0 +1,14 @@
+title,dataset_name,stage,title_id,wss95_count,wss95_mean,wss95_std,wss95_min,wss95_25%,wss95_50%,wss95_75%,wss95_max,rrf10_count,rrf10_mean,rrf10_std,rrf10_min,rrf10_25%,rrf10_50%,rrf10_75%,rrf10_max
+Distal_radius_fractures_approach,data/Distal_radius_fractures_approach_expert_inclusion.csv,Research methodologist,1,6.0,57.7,4.8,51.63,54.35,57.34,61.14,64.13,6.0,30.0,16.73,0.0,25.0,40.0,40.0,40.0
+Distal_radius_fractures_closed_reduction,data/Distal_radius_fractures_closed_reduction_expert_inclusion.csv,Research methodologist,2,4.0,59.4,6.82,55.26,55.55,56.39,60.24,69.55,4.0,25.0,16.67,0.0,25.0,33.33,33.33,33.33
+Hallux_valgus_prognostic,data/Hallux_valgus_prognostic_expert_inclusion.csv,Research methodologist,3,14.0,73.55,1.54,71.07,72.42,73.53,74.76,75.99,14.0,52.75,7.9,46.15,46.15,50.0,59.62,69.23
+Head_and_neck_cancer_bone,data/Head_and_neck_cancer_bone_expert_inclusion.csv,Research methodologist,4,20.0,72.98,2.48,69.67,71.67,72.67,73.67,81.0,20.0,71.32,11.39,52.63,57.89,73.68,80.26,84.21
+Head_and_neck_cancer_imaging,data/Head_and_neck_cancer_imaging_expert_inclusion.csv,Research methodologist,5,9.0,70.12,3.35,66.67,66.67,68.89,73.33,75.56,9.0,45.83,12.5,25.0,50.0,50.0,50.0,62.5
+Obstetric_emergency_training,data/Obstetric_emergency_training_expert_inclusion.csv,Research methodologist,6,12.0,45.34,8.99,36.16,42.8,43.79,44.21,72.88,12.0,40.15,11.92,9.09,36.36,40.91,45.45,54.55
+Post_intensive_care_treatment,data/Post_intensive_care_treatment_expert_inclusion.csv,Research methodologist,7,22.0,66.1,1.87,62.46,65.29,65.87,66.7,70.0,22.0,62.55,5.93,47.62,61.9,61.9,66.67,71.43
+Pregnancy_medication,data/Pregnancy_medication_expert_inclusion.csv,Research methodologist,8,45.0,66.34,1.08,64.04,65.72,66.2,66.68,69.8,45.0,61.26,5.52,40.91,61.36,61.36,63.64,72.73
+Shoulder_replacement_surgery,data/Shoulder_replacement_surgery_expert_inclusion.csv,Research methodologist,10,4.0,93.78,0.87,93.26,93.26,93.39,93.91,95.08,4.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0
+Shoulderdystocia_positioning,data/Shoulderdystocia_positioning_expert_inclusion.csv,Research methodologist,11,5.0,82.8,0.43,82.61,82.61,82.61,82.61,83.57,5.0,40.0,13.69,25.0,25.0,50.0,50.0,50.0
+Shoulderdystocia_recurrence,data/Shoulderdystocia_recurrence_expert_inclusion.csv,Research methodologist,12,5.0,61.05,14.2,54.01,54.32,54.63,55.86,86.42,5.0,60.0,33.54,0.0,75.0,75.0,75.0,75.0
+Total_knee_replacement,data/Total_knee_replacement_expert_inclusion.csv,Research methodologist,13,16.0,73.12,4.0,69.72,70.58,71.75,74.68,86.14,16.0,89.17,16.67,26.67,93.33,93.33,93.33,93.33
+Vascular_access,data/Vascular_access_expert_inclusion.csv,Research methodologist,14,10.0,95.72,0.32,95.27,95.57,95.73,95.89,96.32,10.0,100.0,0.0,100.0,100.0,100.0,100.0,100.0

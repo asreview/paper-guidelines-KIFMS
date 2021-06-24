@@ -1,0 +1,524 @@
+{
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_9.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.73560767590618,
+      "100": 95.73560767590618
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.025,
+    "time_to_discovery": {
+      "400": 3.0,
+      "337": 8.0,
+      "200": 10.0,
+      "120": 11.0,
+      "139": 12.0,
+      "50": 13.0,
+      "94": 19.0,
+      "105": 20.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_50.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.5223880597015,
+      "100": 95.5223880597015
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.024218750000000004,
+    "time_to_discovery": {
+      "139": 1.0,
+      "120": 3.0,
+      "200": 9.0,
+      "9": 11.0,
+      "400": 13.0,
+      "94": 17.0,
+      "105": 18.0,
+      "337": 21.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_94.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 96.16204690831556,
+      "100": 96.16204690831556
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.0203125,
+    "time_to_discovery": {
+      "50": 3.0,
+      "139": 5.0,
+      "105": 7.0,
+      "120": 8.0,
+      "9": 10.0,
+      "200": 12.0,
+      "337": 15.0,
+      "400": 18.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_105.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 96.16204690831556,
+      "100": 96.16204690831556
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.020052083333333335,
+    "time_to_discovery": {
+      "139": 2.0,
+      "50": 3.0,
+      "120": 5.0,
+      "94": 10.0,
+      "9": 11.0,
+      "200": 12.0,
+      "400": 16.0,
+      "337": 18.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_120.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.73560767590618,
+      "100": 95.73560767590618
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02421875,
+    "time_to_discovery": {
+      "50": 1.0,
+      "139": 2.0,
+      "200": 9.0,
+      "9": 12.0,
+      "400": 14.0,
+      "94": 17.0,
+      "105": 18.0,
+      "337": 20.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_139.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.3091684434968,
+      "100": 95.3091684434968
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.0265625,
+    "time_to_discovery": {
+      "50": 1.0,
+      "120": 3.0,
+      "200": 9.0,
+      "9": 12.0,
+      "94": 16.0,
+      "400": 18.0,
+      "105": 21.0,
+      "337": 22.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_200.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.3091684434968,
+      "100": 95.3091684434968
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.025260416666666667,
+    "time_to_discovery": {
+      "120": 2.0,
+      "139": 4.0,
+      "50": 5.0,
+      "9": 11.0,
+      "400": 12.0,
+      "94": 20.0,
+      "105": 21.0,
+      "337": 22.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_337.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 96.16204690831556,
+      "100": 96.16204690831556
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02369791666666667,
+    "time_to_discovery": {
+      "9": 5.0,
+      "400": 7.0,
+      "200": 10.0,
+      "120": 11.0,
+      "139": 12.0,
+      "50": 13.0,
+      "94": 15.0,
+      "105": 18.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Total_knee_replacement_fulltext_inclusion/state_files/state_Total_knee_replacement_fulltext_inclusion_400.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 95.73560767590618,
+      "100": 95.73560767590618
+    },
+    "rrf": {
+      "5": 100.0,
+      "10": 100.0
+    },
+    "loss": 0.02552083333333333,
+    "time_to_discovery": {
+      "9": 1.0,
+      "200": 9.0,
+      "120": 10.0,
+      "139": 11.0,
+      "50": 12.0,
+      "94": 17.0,
+      "105": 18.0,
+      "337": 20.0
+    },
+    "general": {
+      "n_queries": [
+        470
+      ],
+      "n_states": 1,
+      "n_papers": 480,
+      "n_included": 9,
+      "n_excluded": 471,
+      "n_unlabeled": 0
+    }
+  }
+}

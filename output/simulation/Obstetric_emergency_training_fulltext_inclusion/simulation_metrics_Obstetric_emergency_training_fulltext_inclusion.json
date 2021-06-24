@@ -1,0 +1,394 @@
+{
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_15.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 86.4406779661017,
+      "100": 86.4406779661017
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 83.33333333333334
+    },
+    "loss": 0.06914893617021277,
+    "time_to_discovery": {
+      "35": 3.0,
+      "17": 7.0,
+      "66": 11.0,
+      "82": 15.0,
+      "48": 18.0,
+      "59": 24.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_17.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 85.31073446327683,
+      "100": 85.31073446327683
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 50.0
+    },
+    "loss": 0.0851063829787234,
+    "time_to_discovery": {
+      "35": 6.0,
+      "15": 7.0,
+      "66": 12.0,
+      "82": 20.0,
+      "48": 25.0,
+      "59": 26.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_35.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 89.83050847457628,
+      "100": 89.83050847457628
+    },
+    "rrf": {
+      "5": 50.0,
+      "10": 100.0
+    },
+    "loss": 0.05407801418439715,
+    "time_to_discovery": {
+      "66": 3.0,
+      "17": 6.0,
+      "15": 8.0,
+      "48": 12.0,
+      "82": 14.0,
+      "59": 18.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_48.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 88.70056497175142,
+      "100": 88.70056497175142
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 83.33333333333334
+    },
+    "loss": 0.06560283687943262,
+    "time_to_discovery": {
+      "59": 3.0,
+      "17": 4.0,
+      "66": 13.0,
+      "35": 16.0,
+      "82": 18.0,
+      "15": 20.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_59.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 85.87570621468927,
+      "100": 85.87570621468927
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 83.33333333333334
+    },
+    "loss": 0.06826241134751772,
+    "time_to_discovery": {
+      "48": 2.0,
+      "17": 4.0,
+      "66": 12.0,
+      "35": 16.0,
+      "82": 18.0,
+      "15": 25.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_66.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 85.87570621468927,
+      "100": 85.87570621468927
+    },
+    "rrf": {
+      "5": 50.0,
+      "10": 83.33333333333334
+    },
+    "loss": 0.06560283687943262,
+    "time_to_discovery": {
+      "35": 2.0,
+      "17": 6.0,
+      "15": 9.0,
+      "82": 14.0,
+      "48": 18.0,
+      "59": 25.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Obstetric_emergency_training_fulltext_inclusion/state_files/state_Obstetric_emergency_training_fulltext_inclusion_82.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 85.31073446327683,
+      "100": 85.31073446327683
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 66.66666666666667
+    },
+    "loss": 0.07180851063829786,
+    "time_to_discovery": {
+      "15": 2.0,
+      "35": 4.0,
+      "17": 10.0,
+      "48": 15.0,
+      "59": 24.0,
+      "66": 26.0
+    },
+    "general": {
+      "n_queries": [
+        178
+      ],
+      "n_states": 1,
+      "n_papers": 188,
+      "n_included": 7,
+      "n_excluded": 181,
+      "n_unlabeled": 0
+    }
+  }
+}

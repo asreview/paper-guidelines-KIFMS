@@ -1,0 +1,17 @@
+
+#python scripts/split_data_with_multiple_labels.py INPUT_DATA_FOLDER/DATASET_NAME.CSV OUTPUT_FOLDER --split label_1 label_2 label_3
+
+python scripts/split_data_with_multiple_labels.py raw_data/Distal_radius_fractures_approach.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Distal_radius_fractures_closed_reduction.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Hallux_valgus_prognostic.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Head_and_neck_cancer_bone.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Head_and_neck_cancer_imaging.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Obstetric_emergency_training.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Post_intensive_care_treatment.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Pregnancy_medication.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Shoulder_replacement_surgery.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Shoulderdystocia_positioning.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Shoulderdystocia_recurrence.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Total_knee_replacement.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Vascular_access.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion
+python scripts/split_data_with_multiple_labels.py raw_data/Shoulder_replacement_diagnostic.csv data --split noisy_inclusion expert_inclusion fulltext_inclusion

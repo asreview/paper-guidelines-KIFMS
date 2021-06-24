@@ -1,0 +1,458 @@
+{
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_33.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 43.98496240601503,
+      "100": 43.98496240601503
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 14.285714285714285
+    },
+    "loss": 0.3058277462609592,
+    "time_to_discovery": {
+      "146": 18.0,
+      "239": 39.0,
+      "223": 81.0,
+      "129": 83.0,
+      "81": 103.0,
+      "68": 120.0,
+      "167": 149.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_68.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 42.105263157894726,
+      "100": 42.105263157894726
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 28.57142857142857
+    },
+    "loss": 0.26714801444043323,
+    "time_to_discovery": {
+      "81": 2.0,
+      "223": 25.0,
+      "129": 28.0,
+      "239": 83.0,
+      "33": 107.0,
+      "146": 119.0,
+      "167": 154.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_81.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 40.60150375939848,
+      "100": 40.60150375939848
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 42.857142857142854
+    },
+    "loss": 0.22898401237751417,
+    "time_to_discovery": {
+      "68": 1.0,
+      "223": 18.0,
+      "129": 26.0,
+      "239": 64.0,
+      "33": 82.0,
+      "146": 95.0,
+      "167": 158.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_129.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 38.345864661654126,
+      "100": 38.345864661654126
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 42.857142857142854
+    },
+    "loss": 0.2630221763795771,
+    "time_to_discovery": {
+      "223": 4.0,
+      "81": 25.0,
+      "68": 26.0,
+      "239": 84.0,
+      "33": 98.0,
+      "146": 109.0,
+      "167": 164.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_146.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 41.353383458646604,
+      "100": 41.353383458646604
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 14.285714285714285
+    },
+    "loss": 0.31820526044352754,
+    "time_to_discovery": {
+      "33": 12.0,
+      "239": 50.0,
+      "223": 91.0,
+      "129": 93.0,
+      "81": 106.0,
+      "68": 109.0,
+      "167": 156.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_167.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 56.01503759398495,
+      "100": 56.01503759398495
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 28.57142857142857
+    },
+    "loss": 0.23001547189272822,
+    "time_to_discovery": {
+      "81": 21.0,
+      "68": 23.0,
+      "223": 50.0,
+      "129": 52.0,
+      "239": 75.0,
+      "33": 108.0,
+      "146": 117.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_223.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 40.22556390977442,
+      "100": 40.22556390977442
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 42.857142857142854
+    },
+    "loss": 0.2686952037132543,
+    "time_to_discovery": {
+      "129": 6.0,
+      "81": 20.0,
+      "68": 21.0,
+      "239": 86.0,
+      "33": 109.0,
+      "146": 120.0,
+      "167": 159.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Distal_radius_fractures_closed_reduction_noisy_inclusion/state_files/state_Distal_radius_fractures_closed_reduction_noisy_inclusion_239.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 43.98496240601503,
+      "100": 43.98496240601503
+    },
+    "rrf": {
+      "5": 14.285714285714285,
+      "10": 14.285714285714285
+    },
+    "loss": 0.29602888086642604,
+    "time_to_discovery": {
+      "33": 12.0,
+      "146": 28.0,
+      "223": 84.0,
+      "129": 87.0,
+      "81": 103.0,
+      "68": 111.0,
+      "167": 149.0
+    },
+    "general": {
+      "n_queries": [
+        267
+      ],
+      "n_states": 1,
+      "n_papers": 277,
+      "n_included": 8,
+      "n_excluded": 269,
+      "n_unlabeled": 0
+    }
+  }
+}

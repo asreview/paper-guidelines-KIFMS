@@ -1,0 +1,15 @@
+{
+  "data/Total_knee_replacement_noisy_inclusion.csv": {
+    "n_papers": 480,
+    "n_included": 35,
+    "n_excluded": 445,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 21,
+    "n_missing_abstract_included": 2,
+    "title_length": 118.39375,
+    "abstract_length": 1282.0770833333333,
+    "n_keywords": null
+  }
+}

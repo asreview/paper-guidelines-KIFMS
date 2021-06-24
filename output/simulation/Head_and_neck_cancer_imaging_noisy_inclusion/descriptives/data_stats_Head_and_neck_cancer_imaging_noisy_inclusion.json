@@ -1,0 +1,15 @@
+{
+  "data/Head_and_neck_cancer_imaging_noisy_inclusion.csv": {
+    "n_papers": 56,
+    "n_included": 18,
+    "n_excluded": 38,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 0,
+    "n_missing_abstract_included": 0,
+    "title_length": 115.41071428571429,
+    "abstract_length": 1512.3035714285713,
+    "n_keywords": null
+  }
+}

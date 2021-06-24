@@ -1,0 +1,15 @@
+{
+  "data/Shoulder_replacement_diagnostic_noisy_inclusion.csv": {
+    "n_papers": 342,
+    "n_included": 3,
+    "n_excluded": 339,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 13,
+    "n_missing_abstract_included": 0,
+    "title_length": 102.55263157894737,
+    "abstract_length": 1238.485380116959,
+    "n_keywords": null
+  }
+}

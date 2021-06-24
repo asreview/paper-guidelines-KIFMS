@@ -1,0 +1,1382 @@
+{
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_6.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 71.0,
+      "100": 71.0
+    },
+    "rrf": {
+      "5": 31.57894736842105,
+      "10": 84.21052631578948
+    },
+    "loss": 0.07632425114232527,
+    "time_to_discovery": {
+      "252": 3.0,
+      "47": 7.0,
+      "168": 9.0,
+      "216": 11.0,
+      "134": 13.0,
+      "258": 14.0,
+      "103": 16.0,
+      "189": 17.0,
+      "296": 18.0,
+      "21": 19.0,
+      "210": 21.0,
+      "277": 23.0,
+      "170": 24.0,
+      "39": 25.0,
+      "82": 26.0,
+      "275": 27.0,
+      "163": 38.0,
+      "235": 53.0,
+      "58": 87.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_21.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 76.33333333333333,
+      "100": 76.33333333333333
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 57.89473684210526
+    },
+    "loss": 0.08630902013877137,
+    "time_to_discovery": {
+      "277": 2.0,
+      "210": 4.0,
+      "82": 6.0,
+      "170": 8.0,
+      "103": 12.0,
+      "252": 19.0,
+      "47": 21.0,
+      "6": 23.0,
+      "275": 25.0,
+      "168": 28.0,
+      "134": 29.0,
+      "189": 31.0,
+      "296": 32.0,
+      "258": 33.0,
+      "39": 34.0,
+      "216": 36.0,
+      "163": 40.0,
+      "235": 56.0,
+      "58": 71.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_39.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 71.66666666666667,
+      "100": 71.66666666666667
+    },
+    "rrf": {
+      "5": 36.8421052631579,
+      "10": 68.42105263157895
+    },
+    "loss": 0.08309358605517007,
+    "time_to_discovery": {
+      "189": 1.0,
+      "296": 2.0,
+      "103": 8.0,
+      "21": 9.0,
+      "277": 10.0,
+      "210": 13.0,
+      "170": 15.0,
+      "82": 17.0,
+      "275": 20.0,
+      "252": 25.0,
+      "47": 26.0,
+      "6": 27.0,
+      "134": 30.0,
+      "258": 32.0,
+      "168": 33.0,
+      "216": 34.0,
+      "163": 40.0,
+      "235": 64.0,
+      "58": 85.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_47.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 72.33333333333333,
+      "100": 72.33333333333333
+    },
+    "rrf": {
+      "5": 36.8421052631579,
+      "10": 78.94736842105263
+    },
+    "loss": 0.07666271788796751,
+    "time_to_discovery": {
+      "252": 4.0,
+      "6": 6.0,
+      "168": 10.0,
+      "134": 11.0,
+      "258": 12.0,
+      "103": 14.0,
+      "21": 15.0,
+      "170": 17.0,
+      "210": 18.0,
+      "277": 20.0,
+      "189": 21.0,
+      "296": 22.0,
+      "39": 23.0,
+      "82": 28.0,
+      "275": 29.0,
+      "163": 33.0,
+      "216": 34.0,
+      "235": 53.0,
+      "58": 83.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_58.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 81.0,
+      "100": 81.0
+    },
+    "rrf": {
+      "5": 36.8421052631579,
+      "10": 78.94736842105263
+    },
+    "loss": 0.07057031646640717,
+    "time_to_discovery": {
+      "39": 4.0,
+      "189": 5.0,
+      "296": 6.0,
+      "258": 9.0,
+      "134": 11.0,
+      "168": 13.0,
+      "47": 15.0,
+      "252": 16.0,
+      "6": 18.0,
+      "103": 21.0,
+      "21": 23.0,
+      "277": 26.0,
+      "210": 27.0,
+      "170": 29.0,
+      "82": 30.0,
+      "275": 31.0,
+      "216": 34.0,
+      "163": 42.0,
+      "235": 57.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_82.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 70.0,
+      "100": 70.0
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 68.42105263157895
+    },
+    "loss": 0.090032154340836,
+    "time_to_discovery": {
+      "21": 6.0,
+      "277": 7.0,
+      "210": 8.0,
+      "170": 11.0,
+      "275": 14.0,
+      "103": 17.0,
+      "252": 20.0,
+      "47": 23.0,
+      "6": 25.0,
+      "134": 26.0,
+      "168": 27.0,
+      "189": 29.0,
+      "296": 30.0,
+      "258": 31.0,
+      "39": 32.0,
+      "216": 35.0,
+      "163": 39.0,
+      "235": 62.0,
+      "58": 90.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_103.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 75.33333333333333,
+      "100": 75.33333333333333
+    },
+    "rrf": {
+      "5": 21.05263157894737,
+      "10": 63.1578947368421
+    },
+    "loss": 0.08647825351159248,
+    "time_to_discovery": {
+      "252": 5.0,
+      "6": 6.0,
+      "47": 8.0,
+      "21": 11.0,
+      "277": 16.0,
+      "210": 17.0,
+      "170": 18.0,
+      "82": 20.0,
+      "134": 22.0,
+      "168": 25.0,
+      "275": 26.0,
+      "216": 29.0,
+      "189": 32.0,
+      "296": 33.0,
+      "258": 34.0,
+      "39": 35.0,
+      "163": 41.0,
+      "235": 59.0,
+      "58": 74.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_134.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 72.33333333333333,
+      "100": 72.33333333333333
+    },
+    "rrf": {
+      "5": 31.57894736842105,
+      "10": 84.21052631578948
+    },
+    "loss": 0.07835505161617871,
+    "time_to_discovery": {
+      "258": 3.0,
+      "252": 6.0,
+      "6": 7.0,
+      "47": 11.0,
+      "168": 12.0,
+      "216": 15.0,
+      "103": 17.0,
+      "296": 18.0,
+      "189": 19.0,
+      "21": 20.0,
+      "210": 21.0,
+      "170": 23.0,
+      "277": 25.0,
+      "82": 27.0,
+      "39": 28.0,
+      "275": 30.0,
+      "163": 45.0,
+      "235": 53.0,
+      "58": 83.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_163.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.66666666666667,
+      "100": 73.66666666666667
+    },
+    "rrf": {
+      "5": 31.57894736842105,
+      "10": 57.89473684210526
+    },
+    "loss": 0.08749365374851921,
+    "time_to_discovery": {
+      "275": 2.0,
+      "216": 4.0,
+      "210": 10.0,
+      "82": 12.0,
+      "21": 13.0,
+      "277": 14.0,
+      "170": 17.0,
+      "252": 25.0,
+      "6": 26.0,
+      "47": 27.0,
+      "103": 28.0,
+      "168": 31.0,
+      "134": 32.0,
+      "258": 34.0,
+      "189": 35.0,
+      "296": 36.0,
+      "39": 37.0,
+      "235": 55.0,
+      "58": 79.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_168.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 72.66666666666667,
+      "100": 72.66666666666667
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 78.94736842105263
+    },
+    "loss": 0.08224741919106447,
+    "time_to_discovery": {
+      "216": 8.0,
+      "47": 10.0,
+      "252": 11.0,
+      "6": 12.0,
+      "134": 14.0,
+      "258": 16.0,
+      "296": 17.0,
+      "189": 18.0,
+      "103": 20.0,
+      "21": 21.0,
+      "210": 23.0,
+      "170": 24.0,
+      "277": 26.0,
+      "82": 27.0,
+      "275": 30.0,
+      "39": 34.0,
+      "163": 40.0,
+      "235": 53.0,
+      "58": 82.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_170.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.33333333333333,
+      "100": 73.33333333333333
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 57.89473684210526
+    },
+    "loss": 0.08749365374851921,
+    "time_to_discovery": {
+      "210": 1.0,
+      "277": 4.0,
+      "21": 5.0,
+      "82": 7.0,
+      "103": 11.0,
+      "275": 19.0,
+      "252": 22.0,
+      "6": 23.0,
+      "47": 25.0,
+      "134": 27.0,
+      "168": 30.0,
+      "216": 31.0,
+      "189": 33.0,
+      "296": 34.0,
+      "258": 35.0,
+      "39": 37.0,
+      "163": 38.0,
+      "235": 55.0,
+      "58": 80.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_189.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.0,
+      "100": 73.0
+    },
+    "rrf": {
+      "5": 36.8421052631579,
+      "10": 68.42105263157895
+    },
+    "loss": 0.08089355220849552,
+    "time_to_discovery": {
+      "296": 1.0,
+      "39": 2.0,
+      "103": 8.0,
+      "21": 10.0,
+      "277": 11.0,
+      "210": 13.0,
+      "170": 15.0,
+      "82": 17.0,
+      "275": 23.0,
+      "252": 25.0,
+      "47": 26.0,
+      "6": 27.0,
+      "134": 30.0,
+      "168": 31.0,
+      "258": 32.0,
+      "216": 33.0,
+      "163": 40.0,
+      "235": 53.0,
+      "58": 81.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_210.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 70.66666666666667,
+      "100": 70.66666666666667
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 57.89473684210526
+    },
+    "loss": 0.08969368759519376,
+    "time_to_discovery": {
+      "277": 3.0,
+      "21": 4.0,
+      "82": 6.0,
+      "170": 8.0,
+      "103": 12.0,
+      "252": 19.0,
+      "47": 21.0,
+      "6": 23.0,
+      "134": 28.0,
+      "168": 29.0,
+      "189": 30.0,
+      "296": 31.0,
+      "258": 32.0,
+      "275": 33.0,
+      "39": 34.0,
+      "216": 36.0,
+      "163": 41.0,
+      "235": 52.0,
+      "58": 88.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_216.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 72.0,
+      "100": 72.0
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 78.94736842105263
+    },
+    "loss": 0.08207818581824337,
+    "time_to_discovery": {
+      "168": 9.0,
+      "47": 10.0,
+      "252": 12.0,
+      "6": 13.0,
+      "134": 15.0,
+      "258": 16.0,
+      "103": 17.0,
+      "189": 19.0,
+      "296": 20.0,
+      "210": 21.0,
+      "21": 22.0,
+      "170": 24.0,
+      "277": 26.0,
+      "275": 27.0,
+      "82": 28.0,
+      "39": 31.0,
+      "163": 39.0,
+      "235": 52.0,
+      "58": 84.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_235.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 69.66666666666667,
+      "100": 69.66666666666667
+    },
+    "rrf": {
+      "5": 36.8421052631579,
+      "10": 84.21052631578948
+    },
+    "loss": 0.07429345066847182,
+    "time_to_discovery": {
+      "168": 5.0,
+      "47": 7.0,
+      "252": 9.0,
+      "6": 10.0,
+      "134": 13.0,
+      "258": 14.0,
+      "216": 15.0,
+      "103": 16.0,
+      "189": 17.0,
+      "296": 18.0,
+      "21": 21.0,
+      "39": 24.0,
+      "170": 25.0,
+      "210": 27.0,
+      "275": 28.0,
+      "277": 29.0,
+      "82": 32.0,
+      "163": 38.0,
+      "58": 91.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_252.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 71.66666666666667,
+      "100": 71.66666666666667
+    },
+    "rrf": {
+      "5": 31.57894736842105,
+      "10": 84.21052631578948
+    },
+    "loss": 0.0764934845151464,
+    "time_to_discovery": {
+      "6": 4.0,
+      "47": 7.0,
+      "168": 9.0,
+      "216": 11.0,
+      "134": 13.0,
+      "258": 14.0,
+      "103": 16.0,
+      "189": 17.0,
+      "296": 18.0,
+      "21": 19.0,
+      "210": 21.0,
+      "277": 23.0,
+      "170": 24.0,
+      "39": 25.0,
+      "82": 27.0,
+      "275": 28.0,
+      "163": 38.0,
+      "235": 53.0,
+      "58": 85.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_258.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.66666666666667,
+      "100": 73.66666666666667
+    },
+    "rrf": {
+      "5": 31.57894736842105,
+      "10": 84.21052631578948
+    },
+    "loss": 0.07378575055000847,
+    "time_to_discovery": {
+      "134": 1.0,
+      "252": 6.0,
+      "6": 7.0,
+      "47": 11.0,
+      "168": 12.0,
+      "103": 14.0,
+      "216": 16.0,
+      "189": 17.0,
+      "296": 18.0,
+      "21": 19.0,
+      "210": 21.0,
+      "170": 23.0,
+      "277": 24.0,
+      "39": 25.0,
+      "82": 27.0,
+      "275": 29.0,
+      "163": 34.0,
+      "235": 53.0,
+      "58": 79.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_275.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.66666666666667,
+      "100": 73.66666666666667
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 52.63157894736842
+    },
+    "loss": 0.09341682179725842,
+    "time_to_discovery": {
+      "163": 6.0,
+      "82": 8.0,
+      "21": 10.0,
+      "277": 12.0,
+      "210": 13.0,
+      "170": 16.0,
+      "252": 25.0,
+      "103": 26.0,
+      "47": 28.0,
+      "6": 30.0,
+      "168": 32.0,
+      "134": 33.0,
+      "258": 34.0,
+      "216": 35.0,
+      "189": 36.0,
+      "296": 37.0,
+      "39": 40.0,
+      "235": 52.0,
+      "58": 79.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_277.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 72.66666666666667,
+      "100": 72.66666666666667
+    },
+    "rrf": {
+      "5": 26.31578947368421,
+      "10": 57.89473684210526
+    },
+    "loss": 0.08732442037569807,
+    "time_to_discovery": {
+      "21": 1.0,
+      "210": 3.0,
+      "82": 5.0,
+      "170": 8.0,
+      "103": 12.0,
+      "252": 17.0,
+      "47": 18.0,
+      "6": 21.0,
+      "275": 25.0,
+      "134": 28.0,
+      "168": 30.0,
+      "216": 31.0,
+      "189": 33.0,
+      "296": 34.0,
+      "258": 35.0,
+      "39": 36.0,
+      "163": 41.0,
+      "235": 56.0,
+      "58": 82.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Head_and_neck_cancer_bone_expert_inclusion/state_files/state_Head_and_neck_cancer_bone_expert_inclusion_296.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 73.0,
+      "100": 73.0
+    },
+    "rrf": {
+      "5": 42.10526315789474,
+      "10": 78.94736842105263
+    },
+    "loss": 0.07158571670333391,
+    "time_to_discovery": {
+      "189": 1.0,
+      "39": 2.0,
+      "258": 6.0,
+      "134": 9.0,
+      "6": 11.0,
+      "252": 12.0,
+      "103": 14.0,
+      "47": 15.0,
+      "21": 17.0,
+      "168": 19.0,
+      "170": 20.0,
+      "277": 22.0,
+      "210": 23.0,
+      "82": 25.0,
+      "275": 27.0,
+      "216": 32.0,
+      "163": 34.0,
+      "235": 53.0,
+      "58": 81.0
+    },
+    "general": {
+      "n_queries": [
+        301
+      ],
+      "n_states": 1,
+      "n_papers": 311,
+      "n_included": 20,
+      "n_excluded": 291,
+      "n_unlabeled": 0
+    }
+  }
+}

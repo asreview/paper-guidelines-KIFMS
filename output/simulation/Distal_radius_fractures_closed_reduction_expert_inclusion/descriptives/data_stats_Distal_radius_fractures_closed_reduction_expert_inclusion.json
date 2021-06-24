@@ -1,0 +1,15 @@
+{
+  "data/Distal_radius_fractures_closed_reduction_expert_inclusion.csv": {
+    "n_papers": 277,
+    "n_included": 4,
+    "n_excluded": 273,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 21,
+    "n_missing_abstract_included": 2,
+    "title_length": 114.30685920577618,
+    "abstract_length": 1309.4223826714801,
+    "n_keywords": null
+  }
+}

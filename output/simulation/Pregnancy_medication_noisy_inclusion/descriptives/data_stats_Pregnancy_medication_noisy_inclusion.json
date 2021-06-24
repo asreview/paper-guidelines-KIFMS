@@ -1,0 +1,15 @@
+{
+  "data/Pregnancy_medication_noisy_inclusion.csv": {
+    "n_papers": 428,
+    "n_included": 45,
+    "n_excluded": 383,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 42,
+    "n_missing_abstract_included": 5,
+    "title_length": 94.57710280373831,
+    "abstract_length": 1163.411214953271,
+    "n_keywords": null
+  }
+}

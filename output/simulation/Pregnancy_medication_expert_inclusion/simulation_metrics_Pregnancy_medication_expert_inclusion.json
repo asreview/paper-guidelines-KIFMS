@@ -1,0 +1,4232 @@
+{
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_4.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 68.3562241116198,
+      "100": 61.15107913669065
+    },
+    "rrf": {
+      "5": 6.818181818181818,
+      "10": 40.90909090909091
+    },
+    "loss": 0.13020390824129138,
+    "time_to_discovery": {
+      "13": 19.0,
+      "55": 20.0,
+      "36": 21.0,
+      "9": 24.0,
+      "25": 25.0,
+      "35": 28.0,
+      "22": 29.0,
+      "20": 30.0,
+      "23": 31.0,
+      "21": 32.0,
+      "29": 33.0,
+      "19": 34.0,
+      "18": 35.0,
+      "28": 36.0,
+      "41": 38.0,
+      "83": 39.0,
+      "26": 40.0,
+      "12": 41.0,
+      "16": 43.0,
+      "37": 45.0,
+      "14": 46.0,
+      "11": 47.0,
+      "6": 48.0,
+      "267": 54.0,
+      "266": 55.0,
+      "56": 56.0,
+      "71": 57.0,
+      "15": 58.0,
+      "64": 61.0,
+      "24": 66.0,
+      "368": 67.0,
+      "70": 68.0,
+      "145": 69.0,
+      "123": 70.0,
+      "146": 71.0,
+      "117": 77.0,
+      "293": 78.0,
+      "109": 79.0,
+      "119": 85.0,
+      "356": 86.0,
+      "355": 110.0,
+      "34": 113.0,
+      "112": 126.0,
+      "8": 162.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_6.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 68.11641595814257,
+      "100": 31.89448441247002
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10190101954120645,
+    "time_to_discovery": {
+      "11": 1.0,
+      "22": 2.0,
+      "23": 3.0,
+      "21": 4.0,
+      "20": 5.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "35": 9.0,
+      "28": 10.0,
+      "41": 11.0,
+      "83": 13.0,
+      "26": 14.0,
+      "12": 15.0,
+      "16": 16.0,
+      "25": 18.0,
+      "14": 19.0,
+      "37": 22.0,
+      "36": 23.0,
+      "267": 26.0,
+      "266": 27.0,
+      "56": 28.0,
+      "15": 31.0,
+      "145": 35.0,
+      "71": 37.0,
+      "368": 38.0,
+      "123": 42.0,
+      "24": 43.0,
+      "64": 44.0,
+      "293": 48.0,
+      "55": 51.0,
+      "70": 52.0,
+      "146": 60.0,
+      "119": 61.0,
+      "117": 64.0,
+      "109": 65.0,
+      "356": 68.0,
+      "13": 71.0,
+      "9": 72.0,
+      "34": 90.0,
+      "355": 101.0,
+      "112": 114.0,
+      "8": 161.0,
+      "4": 284.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_8.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 69.7950730324831,
+      "100": 32.37410071942446
+    },
+    "rrf": {
+      "5": 27.272727272727273,
+      "10": 59.09090909090909
+    },
+    "loss": 0.10970688190314358,
+    "time_to_discovery": {
+      "13": 7.0,
+      "55": 8.0,
+      "36": 9.0,
+      "9": 11.0,
+      "25": 13.0,
+      "26": 15.0,
+      "28": 16.0,
+      "35": 17.0,
+      "22": 18.0,
+      "23": 19.0,
+      "20": 20.0,
+      "21": 21.0,
+      "29": 22.0,
+      "19": 23.0,
+      "18": 24.0,
+      "41": 26.0,
+      "83": 27.0,
+      "12": 28.0,
+      "16": 29.0,
+      "14": 30.0,
+      "267": 32.0,
+      "6": 34.0,
+      "11": 35.0,
+      "266": 36.0,
+      "56": 38.0,
+      "37": 39.0,
+      "15": 43.0,
+      "24": 45.0,
+      "368": 46.0,
+      "145": 47.0,
+      "123": 50.0,
+      "71": 55.0,
+      "64": 59.0,
+      "70": 61.0,
+      "293": 65.0,
+      "146": 71.0,
+      "119": 75.0,
+      "117": 76.0,
+      "356": 81.0,
+      "109": 82.0,
+      "355": 103.0,
+      "34": 107.0,
+      "112": 121.0,
+      "4": 282.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_9.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.19795073032483,
+      "100": 29.496402877697847
+    },
+    "rrf": {
+      "5": 34.09090909090909,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10588360237892949,
+    "time_to_discovery": {
+      "36": 1.0,
+      "55": 5.0,
+      "25": 6.0,
+      "26": 9.0,
+      "28": 10.0,
+      "35": 11.0,
+      "22": 12.0,
+      "23": 13.0,
+      "20": 14.0,
+      "21": 15.0,
+      "29": 16.0,
+      "19": 17.0,
+      "18": 18.0,
+      "41": 19.0,
+      "83": 21.0,
+      "6": 22.0,
+      "11": 23.0,
+      "12": 24.0,
+      "16": 25.0,
+      "37": 26.0,
+      "14": 27.0,
+      "267": 28.0,
+      "266": 29.0,
+      "56": 34.0,
+      "71": 35.0,
+      "368": 38.0,
+      "15": 41.0,
+      "24": 42.0,
+      "145": 43.0,
+      "64": 48.0,
+      "123": 50.0,
+      "293": 51.0,
+      "70": 54.0,
+      "146": 60.0,
+      "119": 61.0,
+      "117": 62.0,
+      "356": 63.0,
+      "109": 69.0,
+      "13": 79.0,
+      "34": 106.0,
+      "355": 111.0,
+      "112": 122.0,
+      "8": 140.0,
+      "4": 294.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_11.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 31.175059952038367
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10243203058623619,
+    "time_to_discovery": {
+      "6": 1.0,
+      "22": 2.0,
+      "23": 3.0,
+      "21": 4.0,
+      "20": 5.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "35": 9.0,
+      "28": 10.0,
+      "41": 11.0,
+      "83": 13.0,
+      "26": 14.0,
+      "12": 15.0,
+      "16": 16.0,
+      "25": 18.0,
+      "14": 19.0,
+      "36": 20.0,
+      "37": 23.0,
+      "267": 26.0,
+      "266": 27.0,
+      "56": 30.0,
+      "15": 31.0,
+      "71": 34.0,
+      "24": 37.0,
+      "368": 39.0,
+      "145": 40.0,
+      "123": 46.0,
+      "146": 47.0,
+      "293": 51.0,
+      "117": 52.0,
+      "70": 54.0,
+      "119": 55.0,
+      "64": 56.0,
+      "109": 61.0,
+      "356": 62.0,
+      "55": 67.0,
+      "13": 76.0,
+      "9": 78.0,
+      "34": 96.0,
+      "355": 100.0,
+      "112": 123.0,
+      "8": 150.0,
+      "4": 287.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_12.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 31.41486810551558
+    },
+    "rrf": {
+      "5": 36.36363636363637,
+      "10": 61.36363636363637
+    },
+    "loss": 0.1040250637213254,
+    "time_to_discovery": {
+      "22": 2.0,
+      "23": 3.0,
+      "21": 4.0,
+      "20": 5.0,
+      "35": 6.0,
+      "29": 7.0,
+      "19": 8.0,
+      "18": 9.0,
+      "28": 10.0,
+      "41": 11.0,
+      "83": 13.0,
+      "16": 14.0,
+      "14": 15.0,
+      "267": 16.0,
+      "25": 19.0,
+      "26": 20.0,
+      "266": 22.0,
+      "15": 23.0,
+      "56": 26.0,
+      "6": 28.0,
+      "11": 29.0,
+      "24": 31.0,
+      "37": 33.0,
+      "36": 34.0,
+      "368": 38.0,
+      "145": 39.0,
+      "123": 40.0,
+      "71": 43.0,
+      "70": 46.0,
+      "64": 47.0,
+      "146": 50.0,
+      "293": 53.0,
+      "117": 55.0,
+      "119": 56.0,
+      "356": 61.0,
+      "109": 63.0,
+      "55": 65.0,
+      "13": 75.0,
+      "9": 77.0,
+      "34": 98.0,
+      "355": 104.0,
+      "112": 119.0,
+      "8": 156.0,
+      "4": 286.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_13.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.19795073032483,
+      "100": 27.098321342925658
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10312234494477486,
+    "time_to_discovery": {
+      "55": 1.0,
+      "36": 2.0,
+      "25": 4.0,
+      "9": 7.0,
+      "28": 8.0,
+      "35": 9.0,
+      "22": 10.0,
+      "23": 11.0,
+      "20": 12.0,
+      "21": 13.0,
+      "29": 14.0,
+      "19": 15.0,
+      "18": 16.0,
+      "41": 17.0,
+      "26": 19.0,
+      "83": 20.0,
+      "37": 21.0,
+      "6": 22.0,
+      "11": 23.0,
+      "12": 24.0,
+      "16": 26.0,
+      "14": 27.0,
+      "56": 29.0,
+      "267": 30.0,
+      "266": 31.0,
+      "15": 35.0,
+      "71": 40.0,
+      "368": 43.0,
+      "64": 44.0,
+      "24": 46.0,
+      "145": 48.0,
+      "123": 49.0,
+      "70": 51.0,
+      "146": 56.0,
+      "117": 60.0,
+      "293": 62.0,
+      "109": 64.0,
+      "119": 68.0,
+      "356": 70.0,
+      "355": 103.0,
+      "34": 108.0,
+      "112": 122.0,
+      "8": 158.0,
+      "4": 304.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_14.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 64.03967734902986,
+      "100": 33.093525179856115
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10370645709430759,
+    "time_to_discovery": {
+      "15": 1.0,
+      "16": 2.0,
+      "267": 3.0,
+      "266": 5.0,
+      "22": 6.0,
+      "23": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 15.0,
+      "83": 17.0,
+      "12": 18.0,
+      "26": 19.0,
+      "25": 20.0,
+      "6": 25.0,
+      "56": 27.0,
+      "11": 31.0,
+      "37": 32.0,
+      "36": 33.0,
+      "24": 34.0,
+      "368": 38.0,
+      "71": 39.0,
+      "70": 41.0,
+      "145": 42.0,
+      "123": 47.0,
+      "146": 48.0,
+      "293": 54.0,
+      "64": 55.0,
+      "117": 57.0,
+      "119": 59.0,
+      "356": 62.0,
+      "109": 64.0,
+      "55": 69.0,
+      "13": 74.0,
+      "9": 82.0,
+      "355": 96.0,
+      "34": 100.0,
+      "112": 131.0,
+      "8": 144.0,
+      "4": 279.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_15.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.67756703727926,
+      "100": 30.695443645083927
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10349405267629569,
+    "time_to_discovery": {
+      "14": 1.0,
+      "16": 2.0,
+      "267": 3.0,
+      "266": 5.0,
+      "22": 6.0,
+      "23": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 15.0,
+      "83": 17.0,
+      "12": 18.0,
+      "26": 19.0,
+      "25": 20.0,
+      "56": 26.0,
+      "6": 27.0,
+      "11": 29.0,
+      "36": 32.0,
+      "37": 33.0,
+      "145": 35.0,
+      "368": 38.0,
+      "24": 39.0,
+      "71": 41.0,
+      "123": 42.0,
+      "146": 48.0,
+      "70": 50.0,
+      "293": 53.0,
+      "64": 54.0,
+      "55": 55.0,
+      "117": 59.0,
+      "119": 62.0,
+      "109": 63.0,
+      "356": 66.0,
+      "13": 75.0,
+      "9": 77.0,
+      "355": 96.0,
+      "34": 109.0,
+      "112": 120.0,
+      "8": 141.0,
+      "4": 289.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_16.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.7183344233704,
+      "100": 29.496402877697847
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10333474936278675,
+    "time_to_discovery": {
+      "14": 1.0,
+      "15": 2.0,
+      "267": 3.0,
+      "266": 5.0,
+      "22": 6.0,
+      "23": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 15.0,
+      "83": 17.0,
+      "12": 18.0,
+      "26": 19.0,
+      "25": 20.0,
+      "56": 26.0,
+      "6": 27.0,
+      "11": 29.0,
+      "36": 32.0,
+      "37": 33.0,
+      "24": 37.0,
+      "368": 38.0,
+      "145": 40.0,
+      "123": 41.0,
+      "64": 46.0,
+      "70": 47.0,
+      "71": 48.0,
+      "146": 52.0,
+      "293": 53.0,
+      "119": 55.0,
+      "55": 58.0,
+      "117": 61.0,
+      "356": 62.0,
+      "109": 63.0,
+      "13": 74.0,
+      "9": 77.0,
+      "34": 92.0,
+      "355": 100.0,
+      "112": 124.0,
+      "8": 147.0,
+      "4": 294.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_18.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.67756703727926,
+      "100": 29.25659472422062
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10365335598980457,
+    "time_to_discovery": {
+      "19": 1.0,
+      "29": 2.0,
+      "20": 3.0,
+      "21": 4.0,
+      "22": 5.0,
+      "35": 6.0,
+      "23": 7.0,
+      "28": 8.0,
+      "41": 9.0,
+      "83": 10.0,
+      "25": 12.0,
+      "16": 13.0,
+      "14": 14.0,
+      "12": 15.0,
+      "267": 16.0,
+      "26": 18.0,
+      "266": 20.0,
+      "37": 24.0,
+      "56": 25.0,
+      "24": 26.0,
+      "6": 27.0,
+      "11": 28.0,
+      "15": 30.0,
+      "36": 32.0,
+      "368": 38.0,
+      "145": 39.0,
+      "123": 40.0,
+      "71": 43.0,
+      "293": 44.0,
+      "64": 47.0,
+      "70": 50.0,
+      "146": 55.0,
+      "119": 59.0,
+      "109": 60.0,
+      "117": 61.0,
+      "55": 67.0,
+      "356": 69.0,
+      "9": 74.0,
+      "13": 77.0,
+      "355": 106.0,
+      "34": 108.0,
+      "112": 120.0,
+      "8": 145.0,
+      "4": 295.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_19.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.23871811641595,
+      "100": 33.093525179856115
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10163551401869159,
+    "time_to_discovery": {
+      "18": 1.0,
+      "29": 2.0,
+      "20": 3.0,
+      "21": 4.0,
+      "22": 5.0,
+      "35": 6.0,
+      "23": 7.0,
+      "28": 8.0,
+      "41": 9.0,
+      "83": 10.0,
+      "25": 12.0,
+      "16": 13.0,
+      "14": 14.0,
+      "12": 15.0,
+      "267": 16.0,
+      "26": 18.0,
+      "266": 20.0,
+      "37": 24.0,
+      "56": 25.0,
+      "24": 26.0,
+      "6": 27.0,
+      "11": 28.0,
+      "15": 30.0,
+      "36": 32.0,
+      "368": 38.0,
+      "145": 39.0,
+      "123": 40.0,
+      "71": 43.0,
+      "293": 44.0,
+      "146": 47.0,
+      "64": 49.0,
+      "70": 50.0,
+      "117": 55.0,
+      "119": 59.0,
+      "109": 60.0,
+      "356": 62.0,
+      "55": 67.0,
+      "13": 74.0,
+      "9": 78.0,
+      "34": 95.0,
+      "355": 98.0,
+      "112": 126.0,
+      "8": 156.0,
+      "4": 279.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_20.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 29.976019184652273
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10137000849617671,
+    "time_to_discovery": {
+      "21": 1.0,
+      "22": 2.0,
+      "23": 3.0,
+      "35": 4.0,
+      "29": 5.0,
+      "19": 6.0,
+      "18": 7.0,
+      "28": 8.0,
+      "41": 10.0,
+      "83": 11.0,
+      "26": 12.0,
+      "25": 13.0,
+      "16": 14.0,
+      "14": 15.0,
+      "12": 16.0,
+      "267": 18.0,
+      "266": 20.0,
+      "37": 22.0,
+      "36": 23.0,
+      "6": 24.0,
+      "11": 27.0,
+      "15": 30.0,
+      "56": 31.0,
+      "24": 34.0,
+      "71": 36.0,
+      "368": 38.0,
+      "145": 39.0,
+      "123": 40.0,
+      "64": 44.0,
+      "146": 45.0,
+      "293": 47.0,
+      "70": 50.0,
+      "117": 54.0,
+      "119": 55.0,
+      "356": 62.0,
+      "55": 64.0,
+      "9": 68.0,
+      "109": 69.0,
+      "13": 75.0,
+      "34": 95.0,
+      "355": 100.0,
+      "112": 123.0,
+      "8": 157.0,
+      "4": 292.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_21.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.67756703727926,
+      "100": 32.37410071942446
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 59.09090909090909
+    },
+    "loss": 0.10179481733220049,
+    "time_to_discovery": {
+      "20": 1.0,
+      "22": 2.0,
+      "23": 3.0,
+      "35": 4.0,
+      "29": 5.0,
+      "19": 6.0,
+      "18": 7.0,
+      "28": 8.0,
+      "41": 10.0,
+      "83": 11.0,
+      "26": 12.0,
+      "25": 13.0,
+      "16": 14.0,
+      "14": 15.0,
+      "12": 16.0,
+      "267": 18.0,
+      "266": 20.0,
+      "37": 22.0,
+      "36": 23.0,
+      "6": 24.0,
+      "11": 27.0,
+      "15": 30.0,
+      "56": 31.0,
+      "24": 34.0,
+      "71": 37.0,
+      "64": 42.0,
+      "368": 43.0,
+      "145": 44.0,
+      "70": 45.0,
+      "123": 48.0,
+      "146": 50.0,
+      "293": 56.0,
+      "117": 58.0,
+      "119": 60.0,
+      "109": 61.0,
+      "356": 67.0,
+      "55": 72.0,
+      "9": 73.0,
+      "13": 74.0,
+      "355": 92.0,
+      "34": 93.0,
+      "112": 120.0,
+      "8": 144.0,
+      "4": 282.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_22.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 30.2158273381295
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10237892948173322,
+    "time_to_discovery": {
+      "23": 1.0,
+      "21": 2.0,
+      "20": 3.0,
+      "35": 4.0,
+      "29": 5.0,
+      "19": 6.0,
+      "18": 7.0,
+      "28": 8.0,
+      "41": 10.0,
+      "83": 11.0,
+      "25": 12.0,
+      "26": 13.0,
+      "16": 14.0,
+      "14": 15.0,
+      "12": 16.0,
+      "267": 18.0,
+      "266": 20.0,
+      "37": 22.0,
+      "36": 23.0,
+      "6": 24.0,
+      "11": 27.0,
+      "56": 28.0,
+      "71": 33.0,
+      "24": 34.0,
+      "15": 38.0,
+      "368": 39.0,
+      "145": 40.0,
+      "123": 41.0,
+      "64": 44.0,
+      "70": 45.0,
+      "146": 46.0,
+      "293": 55.0,
+      "117": 58.0,
+      "119": 61.0,
+      "55": 62.0,
+      "109": 64.0,
+      "356": 67.0,
+      "9": 79.0,
+      "13": 80.0,
+      "34": 94.0,
+      "355": 101.0,
+      "112": 123.0,
+      "8": 144.0,
+      "4": 291.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_23.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.47852626989317,
+      "100": 31.41486810551558
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10487468139337297,
+    "time_to_discovery": {
+      "22": 1.0,
+      "21": 2.0,
+      "20": 3.0,
+      "35": 4.0,
+      "29": 5.0,
+      "19": 6.0,
+      "18": 7.0,
+      "28": 8.0,
+      "41": 10.0,
+      "83": 11.0,
+      "25": 12.0,
+      "26": 13.0,
+      "12": 14.0,
+      "16": 15.0,
+      "14": 16.0,
+      "267": 18.0,
+      "266": 20.0,
+      "24": 23.0,
+      "15": 24.0,
+      "56": 26.0,
+      "6": 28.0,
+      "11": 30.0,
+      "37": 32.0,
+      "36": 34.0,
+      "368": 38.0,
+      "145": 39.0,
+      "71": 40.0,
+      "123": 47.0,
+      "70": 49.0,
+      "64": 51.0,
+      "146": 56.0,
+      "293": 57.0,
+      "117": 60.0,
+      "119": 61.0,
+      "109": 62.0,
+      "55": 65.0,
+      "356": 66.0,
+      "9": 76.0,
+      "13": 77.0,
+      "34": 93.0,
+      "355": 104.0,
+      "112": 125.0,
+      "8": 161.0,
+      "4": 286.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_24.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 64.99890996293874,
+      "100": 28.776978417266193
+    },
+    "rrf": {
+      "5": 18.181818181818183,
+      "10": 56.81818181818182
+    },
+    "loss": 0.1193181818181818,
+    "time_to_discovery": {
+      "117": 5.0,
+      "123": 12.0,
+      "145": 13.0,
+      "368": 15.0,
+      "356": 17.0,
+      "109": 18.0,
+      "22": 20.0,
+      "21": 21.0,
+      "20": 22.0,
+      "35": 23.0,
+      "29": 24.0,
+      "19": 25.0,
+      "18": 26.0,
+      "23": 27.0,
+      "28": 28.0,
+      "26": 30.0,
+      "41": 31.0,
+      "83": 32.0,
+      "6": 33.0,
+      "16": 34.0,
+      "11": 35.0,
+      "12": 36.0,
+      "37": 38.0,
+      "36": 39.0,
+      "25": 42.0,
+      "14": 45.0,
+      "267": 46.0,
+      "266": 47.0,
+      "15": 49.0,
+      "56": 50.0,
+      "293": 51.0,
+      "64": 58.0,
+      "146": 63.0,
+      "119": 64.0,
+      "71": 66.0,
+      "55": 67.0,
+      "70": 68.0,
+      "9": 79.0,
+      "13": 81.0,
+      "34": 96.0,
+      "355": 103.0,
+      "112": 127.0,
+      "8": 144.0,
+      "4": 297.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_25.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 32.134292565947234
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10503398470688188,
+    "time_to_discovery": {
+      "35": 2.0,
+      "20": 3.0,
+      "21": 4.0,
+      "22": 5.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "23": 9.0,
+      "28": 10.0,
+      "41": 12.0,
+      "83": 13.0,
+      "16": 14.0,
+      "12": 15.0,
+      "26": 16.0,
+      "14": 17.0,
+      "6": 19.0,
+      "267": 20.0,
+      "266": 22.0,
+      "11": 24.0,
+      "37": 26.0,
+      "24": 27.0,
+      "36": 28.0,
+      "15": 30.0,
+      "56": 31.0,
+      "368": 38.0,
+      "145": 40.0,
+      "123": 42.0,
+      "71": 45.0,
+      "146": 48.0,
+      "70": 49.0,
+      "64": 52.0,
+      "293": 54.0,
+      "117": 57.0,
+      "109": 63.0,
+      "119": 64.0,
+      "55": 67.0,
+      "9": 69.0,
+      "356": 74.0,
+      "13": 79.0,
+      "355": 98.0,
+      "34": 106.0,
+      "112": 119.0,
+      "8": 163.0,
+      "4": 283.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_26.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 64.99890996293874,
+      "100": 32.8537170263789
+    },
+    "rrf": {
+      "5": 36.36363636363637,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10689252336448597,
+    "time_to_discovery": {
+      "36": 1.0,
+      "25": 3.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "20": 9.0,
+      "21": 10.0,
+      "22": 11.0,
+      "35": 12.0,
+      "23": 13.0,
+      "28": 14.0,
+      "41": 16.0,
+      "83": 17.0,
+      "37": 18.0,
+      "12": 20.0,
+      "16": 21.0,
+      "6": 22.0,
+      "11": 23.0,
+      "14": 24.0,
+      "267": 25.0,
+      "266": 27.0,
+      "56": 30.0,
+      "15": 31.0,
+      "24": 37.0,
+      "368": 39.0,
+      "145": 40.0,
+      "123": 42.0,
+      "64": 50.0,
+      "71": 52.0,
+      "70": 53.0,
+      "55": 54.0,
+      "293": 56.0,
+      "146": 58.0,
+      "117": 60.0,
+      "119": 63.0,
+      "109": 68.0,
+      "9": 71.0,
+      "356": 75.0,
+      "13": 76.0,
+      "355": 97.0,
+      "34": 98.0,
+      "112": 127.0,
+      "8": 149.0,
+      "4": 280.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_28.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.19795073032483,
+      "100": 32.134292565947234
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 59.09090909090909
+    },
+    "loss": 0.10269753610875104,
+    "time_to_discovery": {
+      "22": 1.0,
+      "23": 2.0,
+      "21": 3.0,
+      "20": 4.0,
+      "35": 5.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "41": 10.0,
+      "83": 11.0,
+      "25": 12.0,
+      "12": 13.0,
+      "16": 14.0,
+      "14": 15.0,
+      "26": 16.0,
+      "267": 18.0,
+      "266": 20.0,
+      "24": 23.0,
+      "15": 24.0,
+      "56": 26.0,
+      "6": 28.0,
+      "11": 29.0,
+      "36": 30.0,
+      "37": 31.0,
+      "71": 38.0,
+      "368": 42.0,
+      "145": 43.0,
+      "64": 45.0,
+      "70": 49.0,
+      "123": 50.0,
+      "293": 51.0,
+      "55": 53.0,
+      "117": 55.0,
+      "146": 56.0,
+      "119": 59.0,
+      "109": 61.0,
+      "9": 65.0,
+      "13": 77.0,
+      "356": 78.0,
+      "34": 101.0,
+      "355": 103.0,
+      "112": 122.0,
+      "8": 147.0,
+      "4": 283.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_29.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 67.1571833442337,
+      "100": 32.613908872901675
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10290994052676296,
+    "time_to_discovery": {
+      "19": 1.0,
+      "18": 2.0,
+      "20": 3.0,
+      "21": 4.0,
+      "22": 5.0,
+      "35": 6.0,
+      "23": 7.0,
+      "28": 8.0,
+      "41": 9.0,
+      "83": 10.0,
+      "16": 12.0,
+      "14": 13.0,
+      "267": 14.0,
+      "12": 15.0,
+      "25": 17.0,
+      "26": 18.0,
+      "266": 19.0,
+      "36": 23.0,
+      "56": 24.0,
+      "15": 25.0,
+      "6": 28.0,
+      "37": 29.0,
+      "11": 30.0,
+      "71": 36.0,
+      "368": 38.0,
+      "24": 39.0,
+      "145": 40.0,
+      "123": 44.0,
+      "70": 47.0,
+      "146": 48.0,
+      "64": 51.0,
+      "293": 57.0,
+      "55": 59.0,
+      "109": 60.0,
+      "117": 61.0,
+      "119": 67.0,
+      "356": 69.0,
+      "9": 77.0,
+      "13": 78.0,
+      "34": 99.0,
+      "355": 100.0,
+      "112": 118.0,
+      "8": 147.0,
+      "4": 281.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_34.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.47852626989317,
+      "100": 31.41486810551558
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 40.90909090909091
+    },
+    "loss": 0.1421516567544605,
+    "time_to_discovery": {
+      "18": 22.0,
+      "19": 23.0,
+      "29": 24.0,
+      "20": 25.0,
+      "21": 26.0,
+      "22": 27.0,
+      "35": 28.0,
+      "23": 29.0,
+      "28": 31.0,
+      "41": 32.0,
+      "83": 33.0,
+      "16": 34.0,
+      "12": 35.0,
+      "14": 37.0,
+      "267": 38.0,
+      "25": 39.0,
+      "266": 40.0,
+      "26": 41.0,
+      "56": 45.0,
+      "37": 46.0,
+      "6": 48.0,
+      "11": 49.0,
+      "15": 51.0,
+      "36": 52.0,
+      "71": 54.0,
+      "24": 59.0,
+      "145": 61.0,
+      "368": 62.0,
+      "70": 63.0,
+      "146": 64.0,
+      "123": 67.0,
+      "55": 69.0,
+      "64": 70.0,
+      "293": 74.0,
+      "117": 75.0,
+      "109": 80.0,
+      "119": 81.0,
+      "356": 86.0,
+      "9": 89.0,
+      "13": 91.0,
+      "355": 109.0,
+      "112": 125.0,
+      "8": 157.0,
+      "4": 286.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_35.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.7183344233704,
+      "100": 31.654676258992808
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10243203058623619,
+    "time_to_discovery": {
+      "20": 1.0,
+      "21": 2.0,
+      "22": 3.0,
+      "29": 4.0,
+      "19": 5.0,
+      "18": 6.0,
+      "23": 7.0,
+      "28": 8.0,
+      "41": 9.0,
+      "83": 10.0,
+      "26": 12.0,
+      "16": 13.0,
+      "14": 14.0,
+      "12": 15.0,
+      "267": 16.0,
+      "25": 18.0,
+      "266": 20.0,
+      "56": 22.0,
+      "6": 23.0,
+      "37": 25.0,
+      "36": 26.0,
+      "11": 27.0,
+      "15": 30.0,
+      "71": 34.0,
+      "24": 39.0,
+      "70": 41.0,
+      "145": 42.0,
+      "368": 43.0,
+      "123": 44.0,
+      "146": 46.0,
+      "293": 51.0,
+      "117": 55.0,
+      "119": 59.0,
+      "55": 62.0,
+      "64": 64.0,
+      "109": 65.0,
+      "356": 69.0,
+      "13": 74.0,
+      "9": 75.0,
+      "355": 91.0,
+      "34": 93.0,
+      "112": 124.0,
+      "8": 157.0,
+      "4": 285.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_36.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.7183344233704,
+      "100": 33.093525179856115
+    },
+    "rrf": {
+      "5": 34.09090909090909,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10896346644010192,
+    "time_to_discovery": {
+      "25": 4.0,
+      "55": 7.0,
+      "26": 8.0,
+      "29": 9.0,
+      "19": 10.0,
+      "18": 11.0,
+      "20": 12.0,
+      "21": 13.0,
+      "22": 14.0,
+      "35": 15.0,
+      "23": 16.0,
+      "28": 17.0,
+      "41": 18.0,
+      "83": 20.0,
+      "12": 21.0,
+      "16": 22.0,
+      "14": 23.0,
+      "267": 24.0,
+      "266": 25.0,
+      "15": 28.0,
+      "56": 31.0,
+      "6": 32.0,
+      "11": 34.0,
+      "37": 36.0,
+      "24": 37.0,
+      "71": 39.0,
+      "70": 40.0,
+      "368": 45.0,
+      "145": 47.0,
+      "64": 48.0,
+      "123": 50.0,
+      "146": 52.0,
+      "293": 59.0,
+      "117": 60.0,
+      "119": 62.0,
+      "356": 67.0,
+      "109": 70.0,
+      "13": 85.0,
+      "9": 86.0,
+      "34": 104.0,
+      "355": 109.0,
+      "112": 124.0,
+      "8": 139.0,
+      "4": 279.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_37.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 30.935251798561154
+    },
+    "rrf": {
+      "5": 34.09090909090909,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10832625318606626,
+    "time_to_discovery": {
+      "36": 1.0,
+      "25": 5.0,
+      "23": 6.0,
+      "22": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 16.0,
+      "83": 17.0,
+      "26": 18.0,
+      "12": 20.0,
+      "16": 22.0,
+      "14": 23.0,
+      "267": 24.0,
+      "266": 25.0,
+      "15": 29.0,
+      "6": 30.0,
+      "56": 31.0,
+      "11": 32.0,
+      "24": 37.0,
+      "368": 38.0,
+      "145": 40.0,
+      "123": 41.0,
+      "71": 43.0,
+      "146": 44.0,
+      "293": 48.0,
+      "64": 50.0,
+      "119": 57.0,
+      "70": 58.0,
+      "117": 59.0,
+      "109": 63.0,
+      "55": 71.0,
+      "356": 73.0,
+      "13": 76.0,
+      "9": 79.0,
+      "355": 107.0,
+      "34": 108.0,
+      "112": 123.0,
+      "8": 154.0,
+      "4": 288.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_41.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.23871811641595,
+      "100": 29.976019184652273
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 56.81818181818182
+    },
+    "loss": 0.10402506372132538,
+    "time_to_discovery": {
+      "83": 1.0,
+      "28": 2.0,
+      "22": 3.0,
+      "23": 4.0,
+      "20": 5.0,
+      "21": 6.0,
+      "29": 7.0,
+      "35": 8.0,
+      "19": 9.0,
+      "18": 10.0,
+      "16": 12.0,
+      "14": 13.0,
+      "267": 14.0,
+      "26": 15.0,
+      "25": 16.0,
+      "12": 17.0,
+      "266": 19.0,
+      "56": 24.0,
+      "15": 25.0,
+      "6": 27.0,
+      "11": 29.0,
+      "37": 32.0,
+      "36": 33.0,
+      "71": 34.0,
+      "24": 40.0,
+      "368": 43.0,
+      "145": 44.0,
+      "123": 45.0,
+      "70": 47.0,
+      "146": 48.0,
+      "64": 49.0,
+      "293": 51.0,
+      "55": 59.0,
+      "117": 61.0,
+      "119": 62.0,
+      "356": 63.0,
+      "109": 64.0,
+      "13": 71.0,
+      "9": 80.0,
+      "34": 87.0,
+      "355": 103.0,
+      "112": 126.0,
+      "8": 159.0,
+      "4": 292.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_55.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.43775888380205,
+      "100": 30.695443645083927
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 63.63636363636363
+    },
+    "loss": 0.1023789294817332,
+    "time_to_discovery": {
+      "36": 1.0,
+      "25": 2.0,
+      "26": 5.0,
+      "29": 6.0,
+      "19": 7.0,
+      "18": 8.0,
+      "20": 9.0,
+      "21": 10.0,
+      "22": 11.0,
+      "35": 12.0,
+      "23": 13.0,
+      "28": 14.0,
+      "41": 16.0,
+      "83": 17.0,
+      "6": 18.0,
+      "11": 19.0,
+      "12": 20.0,
+      "16": 21.0,
+      "37": 22.0,
+      "14": 24.0,
+      "267": 25.0,
+      "266": 28.0,
+      "56": 31.0,
+      "24": 32.0,
+      "71": 34.0,
+      "15": 36.0,
+      "368": 41.0,
+      "145": 42.0,
+      "70": 44.0,
+      "123": 47.0,
+      "64": 49.0,
+      "293": 50.0,
+      "146": 56.0,
+      "117": 60.0,
+      "119": 61.0,
+      "109": 63.0,
+      "9": 68.0,
+      "356": 73.0,
+      "13": 75.0,
+      "34": 95.0,
+      "355": 101.0,
+      "112": 121.0,
+      "8": 152.0,
+      "4": 289.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_56.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.19795073032483,
+      "100": 32.613908872901675
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 59.09090909090909
+    },
+    "loss": 0.10328164825828376,
+    "time_to_discovery": {
+      "25": 2.0,
+      "35": 3.0,
+      "22": 4.0,
+      "23": 5.0,
+      "20": 6.0,
+      "21": 7.0,
+      "29": 8.0,
+      "19": 9.0,
+      "18": 10.0,
+      "28": 11.0,
+      "41": 13.0,
+      "83": 14.0,
+      "26": 15.0,
+      "12": 16.0,
+      "16": 17.0,
+      "6": 19.0,
+      "14": 20.0,
+      "267": 22.0,
+      "266": 23.0,
+      "11": 26.0,
+      "37": 28.0,
+      "36": 29.0,
+      "15": 31.0,
+      "71": 36.0,
+      "24": 38.0,
+      "368": 40.0,
+      "145": 43.0,
+      "123": 44.0,
+      "146": 45.0,
+      "293": 48.0,
+      "70": 51.0,
+      "64": 54.0,
+      "117": 56.0,
+      "119": 60.0,
+      "109": 65.0,
+      "356": 66.0,
+      "55": 69.0,
+      "9": 73.0,
+      "13": 74.0,
+      "355": 90.0,
+      "34": 108.0,
+      "112": 122.0,
+      "8": 144.0,
+      "4": 281.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_64.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 29.73621103117506
+    },
+    "rrf": {
+      "5": 31.818181818181817,
+      "10": 61.36363636363637
+    },
+    "loss": 0.1099192863211555,
+    "time_to_discovery": {
+      "26": 4.0,
+      "36": 5.0,
+      "25": 7.0,
+      "29": 10.0,
+      "19": 11.0,
+      "18": 12.0,
+      "20": 13.0,
+      "21": 14.0,
+      "22": 15.0,
+      "35": 16.0,
+      "23": 17.0,
+      "28": 18.0,
+      "41": 19.0,
+      "83": 20.0,
+      "12": 23.0,
+      "16": 24.0,
+      "14": 26.0,
+      "267": 27.0,
+      "266": 28.0,
+      "15": 30.0,
+      "56": 31.0,
+      "6": 32.0,
+      "11": 33.0,
+      "37": 35.0,
+      "71": 38.0,
+      "70": 40.0,
+      "24": 41.0,
+      "368": 45.0,
+      "145": 47.0,
+      "146": 48.0,
+      "123": 49.0,
+      "293": 53.0,
+      "117": 55.0,
+      "119": 56.0,
+      "109": 57.0,
+      "356": 67.0,
+      "55": 71.0,
+      "9": 75.0,
+      "13": 76.0,
+      "355": 102.0,
+      "34": 113.0,
+      "112": 123.0,
+      "8": 151.0,
+      "4": 293.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_70.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.23871811641595,
+      "100": 31.89448441247002
+    },
+    "rrf": {
+      "5": 31.818181818181817,
+      "10": 54.54545454545455
+    },
+    "loss": 0.1130522514868309,
+    "time_to_discovery": {
+      "20": 7.0,
+      "21": 8.0,
+      "22": 9.0,
+      "29": 10.0,
+      "19": 11.0,
+      "18": 12.0,
+      "35": 13.0,
+      "23": 14.0,
+      "28": 15.0,
+      "41": 17.0,
+      "83": 18.0,
+      "26": 19.0,
+      "25": 20.0,
+      "12": 21.0,
+      "16": 22.0,
+      "6": 23.0,
+      "11": 26.0,
+      "37": 27.0,
+      "36": 29.0,
+      "14": 30.0,
+      "267": 36.0,
+      "266": 37.0,
+      "56": 38.0,
+      "15": 41.0,
+      "368": 43.0,
+      "145": 44.0,
+      "123": 45.0,
+      "71": 48.0,
+      "293": 51.0,
+      "64": 54.0,
+      "24": 56.0,
+      "146": 59.0,
+      "119": 61.0,
+      "117": 64.0,
+      "109": 66.0,
+      "55": 68.0,
+      "356": 69.0,
+      "9": 73.0,
+      "13": 75.0,
+      "355": 93.0,
+      "34": 102.0,
+      "112": 126.0,
+      "8": 145.0,
+      "4": 284.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_71.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 32.613908872901675
+    },
+    "rrf": {
+      "5": 40.90909090909091,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10269753610875107,
+    "time_to_discovery": {
+      "25": 3.0,
+      "56": 4.0,
+      "35": 5.0,
+      "22": 6.0,
+      "23": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "29": 10.0,
+      "19": 11.0,
+      "18": 12.0,
+      "28": 13.0,
+      "41": 14.0,
+      "83": 16.0,
+      "26": 17.0,
+      "12": 18.0,
+      "6": 19.0,
+      "16": 20.0,
+      "14": 21.0,
+      "267": 23.0,
+      "266": 25.0,
+      "15": 29.0,
+      "11": 32.0,
+      "36": 34.0,
+      "37": 35.0,
+      "24": 37.0,
+      "145": 40.0,
+      "368": 41.0,
+      "123": 44.0,
+      "70": 46.0,
+      "293": 48.0,
+      "146": 52.0,
+      "64": 53.0,
+      "117": 56.0,
+      "55": 57.0,
+      "119": 61.0,
+      "109": 62.0,
+      "356": 66.0,
+      "9": 68.0,
+      "13": 69.0,
+      "34": 94.0,
+      "355": 96.0,
+      "112": 123.0,
+      "8": 149.0,
+      "4": 281.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_83.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.67756703727926,
+      "100": 28.297362110311752
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10232582837723023,
+    "time_to_discovery": {
+      "41": 1.0,
+      "28": 2.0,
+      "22": 3.0,
+      "23": 4.0,
+      "20": 5.0,
+      "21": 6.0,
+      "29": 7.0,
+      "35": 8.0,
+      "19": 9.0,
+      "18": 10.0,
+      "16": 12.0,
+      "14": 13.0,
+      "267": 14.0,
+      "26": 15.0,
+      "25": 16.0,
+      "12": 17.0,
+      "266": 19.0,
+      "6": 24.0,
+      "15": 25.0,
+      "56": 26.0,
+      "11": 29.0,
+      "24": 31.0,
+      "37": 32.0,
+      "36": 34.0,
+      "368": 37.0,
+      "145": 39.0,
+      "123": 40.0,
+      "146": 45.0,
+      "70": 46.0,
+      "71": 47.0,
+      "293": 48.0,
+      "64": 50.0,
+      "55": 52.0,
+      "109": 60.0,
+      "119": 61.0,
+      "117": 62.0,
+      "356": 71.0,
+      "9": 78.0,
+      "13": 80.0,
+      "34": 94.0,
+      "355": 100.0,
+      "112": 120.0,
+      "8": 136.0,
+      "4": 299.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_109.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 28.776978417266193
+    },
+    "rrf": {
+      "5": 27.272727272727273,
+      "10": 65.9090909090909
+    },
+    "loss": 0.10598980458793537,
+    "time_to_discovery": {
+      "368": 4.0,
+      "145": 6.0,
+      "123": 7.0,
+      "117": 9.0,
+      "356": 13.0,
+      "119": 14.0,
+      "293": 15.0,
+      "146": 16.0,
+      "22": 18.0,
+      "23": 19.0,
+      "21": 20.0,
+      "20": 21.0,
+      "29": 22.0,
+      "35": 23.0,
+      "19": 24.0,
+      "18": 25.0,
+      "28": 26.0,
+      "41": 27.0,
+      "26": 28.0,
+      "16": 29.0,
+      "83": 30.0,
+      "14": 32.0,
+      "12": 33.0,
+      "267": 34.0,
+      "266": 37.0,
+      "25": 38.0,
+      "37": 39.0,
+      "56": 41.0,
+      "6": 42.0,
+      "11": 43.0,
+      "36": 44.0,
+      "24": 45.0,
+      "15": 51.0,
+      "71": 53.0,
+      "70": 54.0,
+      "64": 62.0,
+      "55": 66.0,
+      "9": 68.0,
+      "13": 74.0,
+      "355": 98.0,
+      "34": 104.0,
+      "112": 119.0,
+      "8": 126.0,
+      "4": 297.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_112.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 69.7950730324831,
+      "100": 33.093525179856115
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 65.9090909090909
+    },
+    "loss": 0.0989804587935429,
+    "time_to_discovery": {
+      "368": 2.0,
+      "145": 4.0,
+      "123": 5.0,
+      "356": 7.0,
+      "26": 8.0,
+      "29": 9.0,
+      "19": 10.0,
+      "18": 11.0,
+      "20": 12.0,
+      "21": 13.0,
+      "22": 14.0,
+      "35": 15.0,
+      "23": 16.0,
+      "28": 17.0,
+      "41": 19.0,
+      "83": 20.0,
+      "267": 21.0,
+      "16": 22.0,
+      "14": 23.0,
+      "266": 24.0,
+      "12": 25.0,
+      "25": 27.0,
+      "6": 28.0,
+      "56": 33.0,
+      "11": 34.0,
+      "37": 36.0,
+      "36": 37.0,
+      "15": 38.0,
+      "24": 41.0,
+      "71": 44.0,
+      "293": 48.0,
+      "146": 49.0,
+      "70": 50.0,
+      "117": 52.0,
+      "64": 57.0,
+      "119": 59.0,
+      "109": 65.0,
+      "55": 72.0,
+      "13": 78.0,
+      "9": 79.0,
+      "355": 105.0,
+      "34": 107.0,
+      "8": 149.0,
+      "4": 279.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_117.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.67756703727926,
+      "100": 29.016786570743406
+    },
+    "rrf": {
+      "5": 27.272727272727273,
+      "10": 61.36363636363637
+    },
+    "loss": 0.1152824978759558,
+    "time_to_discovery": {
+      "24": 3.0,
+      "123": 10.0,
+      "145": 11.0,
+      "22": 13.0,
+      "23": 14.0,
+      "21": 15.0,
+      "20": 16.0,
+      "35": 17.0,
+      "29": 18.0,
+      "19": 19.0,
+      "18": 20.0,
+      "28": 21.0,
+      "41": 23.0,
+      "83": 24.0,
+      "16": 25.0,
+      "14": 26.0,
+      "12": 27.0,
+      "6": 29.0,
+      "26": 30.0,
+      "11": 31.0,
+      "267": 32.0,
+      "37": 34.0,
+      "266": 35.0,
+      "15": 37.0,
+      "25": 38.0,
+      "36": 39.0,
+      "56": 42.0,
+      "368": 43.0,
+      "293": 51.0,
+      "109": 53.0,
+      "64": 55.0,
+      "71": 56.0,
+      "146": 60.0,
+      "70": 62.0,
+      "119": 63.0,
+      "356": 69.0,
+      "55": 77.0,
+      "9": 80.0,
+      "13": 83.0,
+      "34": 92.0,
+      "355": 103.0,
+      "112": 120.0,
+      "8": 159.0,
+      "4": 296.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_119.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 30.935251798561154
+    },
+    "rrf": {
+      "5": 34.09090909090909,
+      "10": 59.09090909090909
+    },
+    "loss": 0.10917587085811385,
+    "time_to_discovery": {
+      "293": 3.0,
+      "22": 7.0,
+      "23": 8.0,
+      "21": 9.0,
+      "20": 10.0,
+      "35": 11.0,
+      "29": 12.0,
+      "19": 13.0,
+      "18": 14.0,
+      "28": 15.0,
+      "41": 16.0,
+      "83": 17.0,
+      "12": 19.0,
+      "26": 20.0,
+      "16": 21.0,
+      "14": 22.0,
+      "25": 23.0,
+      "6": 25.0,
+      "11": 26.0,
+      "267": 28.0,
+      "266": 29.0,
+      "36": 32.0,
+      "37": 34.0,
+      "56": 36.0,
+      "71": 40.0,
+      "24": 41.0,
+      "368": 43.0,
+      "15": 44.0,
+      "145": 46.0,
+      "123": 47.0,
+      "117": 50.0,
+      "70": 54.0,
+      "64": 56.0,
+      "146": 61.0,
+      "109": 62.0,
+      "356": 69.0,
+      "55": 75.0,
+      "9": 81.0,
+      "13": 82.0,
+      "355": 93.0,
+      "34": 94.0,
+      "112": 123.0,
+      "8": 157.0,
+      "4": 288.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_123.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 31.41486810551558
+    },
+    "rrf": {
+      "5": 36.36363636363637,
+      "10": 68.18181818181819
+    },
+    "loss": 0.10237892948173323,
+    "time_to_discovery": {
+      "145": 1.0,
+      "368": 3.0,
+      "356": 6.0,
+      "117": 7.0,
+      "293": 9.0,
+      "22": 11.0,
+      "21": 12.0,
+      "20": 13.0,
+      "35": 14.0,
+      "29": 15.0,
+      "19": 16.0,
+      "18": 17.0,
+      "23": 18.0,
+      "28": 19.0,
+      "41": 20.0,
+      "83": 21.0,
+      "26": 22.0,
+      "6": 23.0,
+      "11": 25.0,
+      "12": 26.0,
+      "16": 27.0,
+      "14": 28.0,
+      "267": 29.0,
+      "37": 31.0,
+      "266": 32.0,
+      "24": 34.0,
+      "25": 35.0,
+      "56": 37.0,
+      "36": 38.0,
+      "15": 40.0,
+      "71": 52.0,
+      "146": 53.0,
+      "70": 54.0,
+      "64": 55.0,
+      "119": 59.0,
+      "109": 61.0,
+      "55": 69.0,
+      "9": 74.0,
+      "13": 79.0,
+      "34": 93.0,
+      "355": 104.0,
+      "112": 119.0,
+      "8": 141.0,
+      "4": 286.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_145.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 31.175059952038367
+    },
+    "rrf": {
+      "5": 36.36363636363637,
+      "10": 68.18181818181819
+    },
+    "loss": 0.10184791843670352,
+    "time_to_discovery": {
+      "123": 1.0,
+      "368": 3.0,
+      "356": 6.0,
+      "117": 7.0,
+      "293": 9.0,
+      "22": 11.0,
+      "21": 12.0,
+      "20": 13.0,
+      "35": 14.0,
+      "29": 15.0,
+      "19": 16.0,
+      "18": 17.0,
+      "23": 18.0,
+      "28": 19.0,
+      "41": 20.0,
+      "83": 21.0,
+      "26": 22.0,
+      "6": 23.0,
+      "11": 25.0,
+      "12": 26.0,
+      "16": 27.0,
+      "14": 28.0,
+      "267": 29.0,
+      "37": 31.0,
+      "266": 32.0,
+      "24": 34.0,
+      "25": 35.0,
+      "36": 37.0,
+      "15": 40.0,
+      "56": 42.0,
+      "146": 48.0,
+      "119": 51.0,
+      "70": 52.0,
+      "71": 53.0,
+      "55": 57.0,
+      "64": 60.0,
+      "109": 63.0,
+      "9": 67.0,
+      "13": 73.0,
+      "355": 96.0,
+      "34": 107.0,
+      "112": 119.0,
+      "8": 152.0,
+      "4": 287.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_146.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.43775888380205,
+      "100": 30.935251798561154
+    },
+    "rrf": {
+      "5": 34.09090909090909,
+      "10": 63.63636363636363
+    },
+    "loss": 0.10912276975361088,
+    "time_to_discovery": {
+      "22": 5.0,
+      "23": 6.0,
+      "21": 7.0,
+      "20": 8.0,
+      "29": 9.0,
+      "19": 10.0,
+      "18": 11.0,
+      "35": 12.0,
+      "28": 13.0,
+      "41": 15.0,
+      "83": 16.0,
+      "12": 17.0,
+      "16": 19.0,
+      "25": 20.0,
+      "14": 21.0,
+      "26": 22.0,
+      "6": 23.0,
+      "11": 26.0,
+      "37": 27.0,
+      "36": 28.0,
+      "15": 30.0,
+      "267": 33.0,
+      "266": 34.0,
+      "56": 36.0,
+      "368": 38.0,
+      "24": 39.0,
+      "145": 41.0,
+      "123": 42.0,
+      "293": 49.0,
+      "117": 50.0,
+      "64": 54.0,
+      "71": 56.0,
+      "70": 57.0,
+      "119": 60.0,
+      "109": 61.0,
+      "356": 65.0,
+      "55": 77.0,
+      "9": 79.0,
+      "13": 84.0,
+      "355": 97.0,
+      "34": 100.0,
+      "112": 121.0,
+      "8": 149.0,
+      "4": 288.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_266.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.43775888380205,
+      "100": 31.654676258992808
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.1042374681393373,
+    "time_to_discovery": {
+      "267": 1.0,
+      "14": 4.0,
+      "16": 5.0,
+      "23": 6.0,
+      "22": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 15.0,
+      "83": 17.0,
+      "26": 18.0,
+      "25": 19.0,
+      "12": 20.0,
+      "6": 24.0,
+      "15": 25.0,
+      "11": 26.0,
+      "36": 28.0,
+      "37": 30.0,
+      "56": 32.0,
+      "24": 35.0,
+      "368": 38.0,
+      "145": 39.0,
+      "71": 41.0,
+      "123": 47.0,
+      "293": 48.0,
+      "146": 52.0,
+      "55": 54.0,
+      "117": 55.0,
+      "109": 56.0,
+      "70": 58.0,
+      "119": 60.0,
+      "64": 61.0,
+      "356": 70.0,
+      "9": 74.0,
+      "13": 75.0,
+      "34": 94.0,
+      "355": 98.0,
+      "112": 121.0,
+      "8": 148.0,
+      "4": 285.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_267.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.7183344233704,
+      "100": 31.175059952038367
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10567119796091759,
+    "time_to_discovery": {
+      "266": 1.0,
+      "14": 4.0,
+      "16": 5.0,
+      "23": 6.0,
+      "22": 7.0,
+      "20": 8.0,
+      "21": 9.0,
+      "35": 10.0,
+      "29": 11.0,
+      "19": 12.0,
+      "18": 13.0,
+      "28": 14.0,
+      "41": 15.0,
+      "83": 17.0,
+      "26": 18.0,
+      "25": 19.0,
+      "12": 20.0,
+      "6": 24.0,
+      "15": 25.0,
+      "56": 26.0,
+      "11": 28.0,
+      "36": 30.0,
+      "37": 32.0,
+      "24": 36.0,
+      "368": 38.0,
+      "145": 39.0,
+      "64": 42.0,
+      "123": 45.0,
+      "293": 50.0,
+      "55": 52.0,
+      "71": 57.0,
+      "146": 58.0,
+      "70": 59.0,
+      "117": 63.0,
+      "119": 64.0,
+      "356": 65.0,
+      "109": 66.0,
+      "9": 76.0,
+      "13": 77.0,
+      "34": 95.0,
+      "355": 96.0,
+      "112": 124.0,
+      "8": 147.0,
+      "4": 287.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_293.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 30.935251798561154
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 61.36363636363637
+    },
+    "loss": 0.10620220900594733,
+    "time_to_discovery": {
+      "22": 3.0,
+      "23": 4.0,
+      "21": 5.0,
+      "20": 6.0,
+      "35": 7.0,
+      "29": 8.0,
+      "19": 9.0,
+      "18": 10.0,
+      "28": 11.0,
+      "41": 13.0,
+      "83": 14.0,
+      "16": 15.0,
+      "14": 16.0,
+      "12": 17.0,
+      "267": 18.0,
+      "266": 20.0,
+      "25": 21.0,
+      "26": 24.0,
+      "37": 27.0,
+      "6": 28.0,
+      "11": 29.0,
+      "36": 30.0,
+      "15": 33.0,
+      "56": 36.0,
+      "71": 38.0,
+      "24": 41.0,
+      "368": 42.0,
+      "55": 44.0,
+      "145": 48.0,
+      "123": 49.0,
+      "70": 52.0,
+      "64": 54.0,
+      "146": 58.0,
+      "119": 66.0,
+      "117": 67.0,
+      "109": 68.0,
+      "13": 70.0,
+      "356": 71.0,
+      "9": 74.0,
+      "34": 86.0,
+      "355": 97.0,
+      "112": 123.0,
+      "8": 160.0,
+      "4": 288.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_355.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 66.91737519075649,
+      "100": 29.73621103117506
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 68.18181818181819
+    },
+    "loss": 0.0979715378079864,
+    "time_to_discovery": {
+      "356": 1.0,
+      "123": 2.0,
+      "145": 3.0,
+      "368": 5.0,
+      "293": 7.0,
+      "117": 8.0,
+      "22": 11.0,
+      "23": 12.0,
+      "21": 13.0,
+      "20": 14.0,
+      "35": 15.0,
+      "29": 16.0,
+      "19": 17.0,
+      "18": 18.0,
+      "28": 19.0,
+      "26": 20.0,
+      "41": 21.0,
+      "83": 22.0,
+      "6": 23.0,
+      "11": 25.0,
+      "12": 26.0,
+      "37": 27.0,
+      "36": 28.0,
+      "16": 30.0,
+      "14": 34.0,
+      "25": 35.0,
+      "267": 36.0,
+      "266": 37.0,
+      "56": 39.0,
+      "15": 42.0,
+      "55": 43.0,
+      "71": 46.0,
+      "24": 48.0,
+      "146": 49.0,
+      "70": 52.0,
+      "119": 57.0,
+      "64": 60.0,
+      "109": 66.0,
+      "9": 75.0,
+      "13": 76.0,
+      "34": 95.0,
+      "112": 119.0,
+      "8": 160.0,
+      "4": 293.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_356.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 31.654676258992808
+    },
+    "rrf": {
+      "5": 38.63636363636363,
+      "10": 72.72727272727273
+    },
+    "loss": 0.10110450297366187,
+    "time_to_discovery": {
+      "123": 1.0,
+      "145": 2.0,
+      "117": 4.0,
+      "368": 6.0,
+      "119": 9.0,
+      "293": 10.0,
+      "22": 11.0,
+      "21": 12.0,
+      "20": 13.0,
+      "29": 14.0,
+      "19": 15.0,
+      "18": 16.0,
+      "35": 17.0,
+      "23": 18.0,
+      "28": 19.0,
+      "41": 20.0,
+      "83": 21.0,
+      "26": 22.0,
+      "12": 24.0,
+      "6": 25.0,
+      "16": 26.0,
+      "11": 27.0,
+      "14": 28.0,
+      "267": 29.0,
+      "266": 32.0,
+      "25": 33.0,
+      "56": 36.0,
+      "37": 38.0,
+      "24": 39.0,
+      "36": 40.0,
+      "15": 41.0,
+      "146": 42.0,
+      "109": 51.0,
+      "70": 54.0,
+      "71": 55.0,
+      "64": 61.0,
+      "55": 69.0,
+      "13": 77.0,
+      "9": 78.0,
+      "34": 101.0,
+      "355": 107.0,
+      "112": 123.0,
+      "8": 153.0,
+      "4": 285.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Pregnancy_medication_expert_inclusion/state_files/state_Pregnancy_medication_expert_inclusion_368.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 65.9581425768476,
+      "100": 31.41486810551558
+    },
+    "rrf": {
+      "5": 36.36363636363637,
+      "10": 68.18181818181819
+    },
+    "loss": 0.1040250637213254,
+    "time_to_discovery": {
+      "145": 2.0,
+      "123": 3.0,
+      "356": 6.0,
+      "117": 7.0,
+      "293": 9.0,
+      "22": 11.0,
+      "21": 12.0,
+      "20": 13.0,
+      "35": 14.0,
+      "29": 15.0,
+      "19": 16.0,
+      "18": 17.0,
+      "23": 18.0,
+      "28": 19.0,
+      "41": 20.0,
+      "83": 21.0,
+      "26": 22.0,
+      "6": 23.0,
+      "11": 25.0,
+      "12": 26.0,
+      "16": 27.0,
+      "14": 28.0,
+      "267": 29.0,
+      "37": 31.0,
+      "266": 33.0,
+      "25": 36.0,
+      "24": 37.0,
+      "36": 38.0,
+      "56": 41.0,
+      "15": 42.0,
+      "146": 45.0,
+      "119": 48.0,
+      "64": 54.0,
+      "71": 58.0,
+      "70": 59.0,
+      "109": 64.0,
+      "55": 73.0,
+      "13": 78.0,
+      "9": 82.0,
+      "34": 93.0,
+      "355": 98.0,
+      "112": 123.0,
+      "8": 157.0,
+      "4": 286.0
+    },
+    "general": {
+      "n_queries": [
+        418
+      ],
+      "n_states": 1,
+      "n_papers": 428,
+      "n_included": 45,
+      "n_excluded": 383,
+      "n_unlabeled": 0
+    }
+  }
+}

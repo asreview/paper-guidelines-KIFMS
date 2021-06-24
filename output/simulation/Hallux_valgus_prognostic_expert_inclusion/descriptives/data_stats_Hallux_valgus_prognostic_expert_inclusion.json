@@ -1,0 +1,15 @@
+{
+  "data/Hallux_valgus_prognostic_expert_inclusion.csv": {
+    "n_papers": 640,
+    "n_included": 14,
+    "n_excluded": 626,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 12,
+    "n_missing_abstract_included": 1,
+    "title_length": 93.0515625,
+    "abstract_length": 1233.0484375,
+    "n_keywords": null
+  }
+}

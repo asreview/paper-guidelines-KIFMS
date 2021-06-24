@@ -1,0 +1,214 @@
+{
+  "output/simulation/Shoulderdystocia_positioning_fulltext_inclusion/state_files/state_Shoulderdystocia_positioning_fulltext_inclusion_23.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.67632850241546,
+      "100": 80.67632850241546
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 33.333333333333336
+    },
+    "loss": 0.15137614678899083,
+    "time_to_discovery": {
+      "197": 21.0,
+      "61": 38.0,
+      "66": 40.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 4,
+      "n_excluded": 214,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_fulltext_inclusion/state_files/state_Shoulderdystocia_positioning_fulltext_inclusion_61.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 76.32850241545893,
+      "100": 76.32850241545893
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 33.333333333333336
+    },
+    "loss": 0.14220183486238533,
+    "time_to_discovery": {
+      "66": 2.0,
+      "197": 42.0,
+      "23": 49.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 4,
+      "n_excluded": 214,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_fulltext_inclusion/state_files/state_Shoulderdystocia_positioning_fulltext_inclusion_66.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 80.67632850241546,
+      "100": 80.67632850241546
+    },
+    "rrf": {
+      "5": 33.333333333333336,
+      "10": 33.333333333333336
+    },
+    "loss": 0.11773700305810397,
+    "time_to_discovery": {
+      "61": 3.0,
+      "197": 34.0,
+      "23": 40.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 4,
+      "n_excluded": 214,
+      "n_unlabeled": 0
+    }
+  },
+  "output/simulation/Shoulderdystocia_positioning_fulltext_inclusion/state_files/state_Shoulderdystocia_positioning_fulltext_inclusion_197.h5": {
+    "settings": {
+      "model": "nb",
+      "query_strategy": "max",
+      "balance_strategy": "double",
+      "feature_extraction": "tfidf",
+      "n_instances": 1,
+      "n_prior_included": 1,
+      "n_prior_excluded": 1,
+      "mode": "simulate",
+      "model_param": {
+        "alpha": 3.822
+      },
+      "query_param": {},
+      "feature_param": {
+        "ngram_max": 1,
+        "stop_words": "english",
+        "split_ta": 0,
+        "use_keywords": 0
+      },
+      "balance_param": {
+        "a": 2.155,
+        "alpha": 0.94,
+        "b": 0.789,
+        "beta": 1.0
+      },
+      "abstract_only": false
+    },
+    "wss": {
+      "95": 82.1256038647343,
+      "100": 82.1256038647343
+    },
+    "rrf": {
+      "5": 0.0,
+      "10": 33.333333333333336
+    },
+    "loss": 0.13914373088685017,
+    "time_to_discovery": {
+      "23": 19.0,
+      "61": 35.0,
+      "66": 37.0
+    },
+    "general": {
+      "n_queries": [
+        208
+      ],
+      "n_states": 1,
+      "n_papers": 218,
+      "n_included": 4,
+      "n_excluded": 214,
+      "n_unlabeled": 0
+    }
+  }
+}

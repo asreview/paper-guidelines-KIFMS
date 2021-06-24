@@ -1,0 +1,15 @@
+{
+  "data/Total_knee_replacement_expert_inclusion.csv": {
+    "n_papers": 480,
+    "n_included": 16,
+    "n_excluded": 464,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 21,
+    "n_missing_abstract_included": 0,
+    "title_length": 118.39375,
+    "abstract_length": 1282.0770833333333,
+    "n_keywords": null
+  }
+}

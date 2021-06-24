@@ -1,0 +1,15 @@
+{
+  "data/Obstetric_emergency_training_noisy_inclusion.csv": {
+    "n_papers": 188,
+    "n_included": 18,
+    "n_excluded": 170,
+    "n_unlabeled": 0,
+    "n_missing_title": 0,
+    "n_missing_title_included": 0,
+    "n_missing_abstract": 16,
+    "n_missing_abstract_included": 0,
+    "title_length": 94.33510638297872,
+    "abstract_length": 1270.622340425532,
+    "n_keywords": null
+  }
+}

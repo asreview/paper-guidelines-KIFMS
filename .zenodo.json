@@ -1,0 +1,61 @@
+{ "description":"This repository contains scripts to run simulations for 14 datasets openly published on the Dutch database for medical guidelines belonging to the paper Artificial intelligence supports literature screening in medical guideline development: towards up-to-date medical guidelines.",
+   "title":"Scripts for paper on Towards up-to-date medical guidelines",
+   "creators":[
+      {
+         "name":"Harmsen, Wouter",
+         "affiliation":"Knowledge Institute for Federation of Medical Specialists, Utrecht, The Netherlands",
+         "orcid":"0000-0003-1423-9445"
+      },
+      {
+         "name":"de Groot, Janke",
+         "affiliation":"Knowledge Institute for Federation of Medical Specialists, Utrecht, The Netherlands",
+         "orcid":"0000-0002-8545-2246"
+      },
+      {
+         "name":"Harkema, Albert",
+         "affiliation":"Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+         "orcid":"0000-0002-7091-1147"
+      },
+      {
+         "name":"van Dusseldorp, Ingeborg",
+         "affiliation":"Knowledge Institute for Federation of Medical Specialists, Utrecht, The Netherlands",
+         "orcid":"0000-0002-6551-1413"
+      },
+      {
+         "name": "De Bruin, Jonathan",
+         "affiliation": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, the Netherlands",
+         "orcid": "0000-0002-4297-0502"
+      },
+            {
+         "name":"Van den Brand, Sofie",
+         "affiliation":"Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+         "orcid":"0000-0002-2408-3336"
+      },
+      {
+         "name":"Van de Schoot, Rens",
+         "affiliation":"Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+         "orcid":"0000-0001-7736-2091"
+      }
+
+   ],
+   "keywords":[
+      "guideline development",
+      "medical guidelines",
+      "medical",
+      "artificial intelligence",
+      "active learning", 
+      "machine learning", 
+      "systematic reviewing",
+      "systematic review",
+      "text data",
+      "natural language processing",
+   ],
+   "related_identifiers":[
+      {
+         "relation":"isSupplementTo",
+         "identifier":"https://www.nature.com/articles/s42256-020-00287-7"
+      }
+   ],
+   "license":"MIT",
+   "upload_type":"software"
+}

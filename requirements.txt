@@ -1,0 +1,4 @@
+asreview==0.16
+asreview-wordcloud<1
+asreview-statistics<1
+asreview-visualization<1
