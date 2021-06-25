@@ -1,5 +1,7 @@
 # Scripts for paper on "Towards up-to-date medical guidelines"
 
+[![DOI](https://zenodo.org/badge/379924501.svg)](https://zenodo.org/badge/latestdoi/379924501)
+
 The purpose of this study was to evaluate the performance and feasibility of active learning to support the selection of relevant publications within the context of medical guideline development. This repository contains scripts to run and analyze simulations for 14 datasets openly published on the Dutch database for [medical guidelines](https://www.richtlijnendatabase.nl). The results are published in the paper "Artificial intelligence supports literature screening in medical guideline development: towards up-to-date medical guidelines". 
 
 
